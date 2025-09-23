@@ -1,4 +1,4 @@
-# This is a simpel function to add placeholder text files to each directory in Datasets 
+# This is a simple function to add placeholder text files to each directory in Datasets 
 
 import os
 import subprocess
