@@ -1,0 +1,24 @@
+2025-09-23 17:26:59,339 - DEBUG - Extracting file: /mnt/c/Users/CSD_Acc/Documents/RAG_ECE_Board_Exam/Datasets/Others/ECE_TOS.pdf
+2025-09-23 17:26:59,374 - INFO - detected formats: [<InputFormat.PDF: 'pdf'>]
+2025-09-23 17:26:59,410 - INFO - Going to convert document batch...
+2025-09-23 17:26:59,411 - INFO - Initializing pipeline for StandardPdfPipeline with options hash e647edf348883bed75367b22fbe60347
+2025-09-23 17:26:59,419 - INFO - Loading plugin 'docling_defaults'
+2025-09-23 17:26:59,420 - INFO - Registered picture descriptions: ['vlm', 'api']
+2025-09-23 17:26:59,432 - INFO - Loading plugin 'docling_defaults'
+2025-09-23 17:26:59,436 - INFO - Registered ocr engines: ['easyocr', 'ocrmac', 'rapidocr', 'tesserocr', 'tesseract']
+2025-09-23 17:26:59,555 - INFO - Accelerator device: 'cpu'
+2025-09-23 17:27:02,166 - INFO - Accelerator device: 'cpu'
+2025-09-23 17:27:02,171 - DEBUG - Starting new HTTPS connection (1): huggingface.co:443
+2025-09-23 17:27:05,604 - DEBUG - https://huggingface.co:443 "GET /api/models/ds4sd/docling-layout-heron/revision/main HTTP/1.1" 200 880
+2025-09-23 17:27:06,167 - DEBUG - LayoutPredictor settings: {'model_name': 'RTDetrV2ForObjectDetection', 'safe_tensors_file': '/home/toni11/.cache/huggingface/hub/models--ds4sd--docling-layout-heron/snapshots/bdb7099d742220552d703932cc0ce0a26a7a8da8/model.safetensors', 'device': 'cpu', 'num_threads': 4, 'image_size': {'height': 640, 'width': 640}, 'threshold': 0.3}
+2025-09-23 17:27:06,452 - DEBUG - https://huggingface.co:443 "GET /api/models/ds4sd/docling-models/revision/v2.3.0 HTTP/1.1" 200 1080
+2025-09-23 17:27:06,469 - INFO - Accelerator device: 'cpu'
+2025-09-23 17:27:07,045 - INFO - Processing document ECE_TOS.pdf
+2025-09-23 17:28:09,125 - DEBUG - Finished converting pages 4/25 time=34834.727
+2025-09-23 17:29:03,376 - DEBUG - Finished converting pages 8/25 time=34888.978
+2025-09-23 17:29:20,122 - DEBUG - Finished converting pages 12/25 time=34905.724
+2025-09-23 17:30:11,530 - DEBUG - Finished converting pages 16/25 time=34957.132
+2025-09-23 17:30:50,241 - DEBUG - Finished converting pages 20/25 time=34995.844
+2025-09-23 17:31:19,504 - DEBUG - Finished converting pages 24/25 time=35025.106
+2025-09-23 17:31:22,627 - DEBUG - Finished converting pages 25/25 time=35028.229
+2025-09-23 17:31:22,733 - INFO - Finished converting document ECE_TOS.pdf in 263.38 sec.

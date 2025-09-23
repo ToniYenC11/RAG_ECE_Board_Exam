@@ -105,6 +105,8 @@ urllib3 = "*"
 watchdog = "*"
 wcwidth = "*"
 zipp = "*"
+docling = "*"
+markitdown = {extras = ["all"], version = "*"}
 
 [dev-packages]
 
