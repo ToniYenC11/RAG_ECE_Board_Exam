@@ -40,7 +40,7 @@ def setup_logging(output_file):
     logger.addHandler(console_handler)
     logger.addHandler(file_handler)
 
-def convert_md(target_path,md_converter,*args): #TODO: Add options for markitdown if needed
+def convert_md(target_path,md_converter,*args): #TODO: Add checking if a convered instance is already in the Datasets_md folder
     """Convert the file into markdown.
 
     Args:
