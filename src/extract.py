@@ -40,13 +40,57 @@ def setup_logging(output_file):
     logger.addHandler(console_handler)
     logger.addHandler(file_handler)
 
-def convert_md(target_path,md_converter,*args): #TODO: Add checking if a convered instance is already in the Datasets_md folder
+def is_file_in_log(target_path, log_file_path):
+    """Check if a file path is already recorded in the log file.
+    
+    Args:
+        target_path (str): Path of the file to check
+        log_file_path (str): Path to the log file
+    
+    Returns:
+        bool: True if file is found in log, False otherwise
+    """
+    if not os.path.exists(log_file_path):
+        return False
+    
+    try:
+        with open(log_file_path, 'r', encoding='utf-8') as log_file:
+            processed_files = {line.strip() for line in log_file if line.strip()}
+            return str(target_path) in processed_files
+    except Exception as e:
+        logging.warning(f"Error reading log file {log_file_path}: {e}")
+        return False
+
+def add_to_log(target_path, log_file_path):
+    """Add a successfully converted file path to the log file.
+    
+    Args:
+        target_path (str): Path of the successfully converted file
+        log_file_path (str): Path to the log file
+    """
+    try:
+        # Ensure the log file directory exists
+        log_dir = os.path.dirname(log_file_path)
+        if log_dir:
+            os.makedirs(log_dir, exist_ok=True)
+        
+        with open(log_file_path, 'a', encoding='utf-8') as log_file:
+            log_file.write(f"{target_path}\n")
+            
+    except Exception as e:
+        logging.error(f"Error writing to log file {log_file_path}: {e}")
+
+def convert_md(target_path, md_converter, log_file_name="conversion_log.txt", *args): 
     """Convert the file into markdown.
 
     Args:
         target_path (Path): Absolute path of the file to convert
         md_converter (_type_): Defined in the md, which may be either Docling or Markitdown.
     """
+    
+    current_dir = os.path.dirname(os.path.abspath(__file__))
+    logs_dir = os.path.join(os.path.dirname(current_dir), 'logs')
+    log_file_path = os.path.join(logs_dir, log_file_name)
     
     # Get the base directory and file name of the target path
     base_dir = os.path.dirname(target_path)
@@ -62,11 +106,26 @@ def convert_md(target_path,md_converter,*args): #TODO: Add checking if a convere
     relative_path = os.path.relpath(base_dir, start=os.path.dirname(target_path))  # Relative path from 'Datasets'
     md_folder = os.path.join(root_md_dir, relative_path)  # Subfolder structure inside 'Datasets_md'
     
-    # Ensure the target subfolder exists inside 'Datasets_md'
-    os.makedirs(md_folder, exist_ok=True)
-    
     # Full path for the markdown file in the 'Datasets_md' structure
     md_txt = os.path.join(md_folder, md_file_name)
+    
+    #* Primary check: Check if the file already exists in the log file
+    if is_file_in_log(target_path, log_file_path):
+        logging.info(f"File {target_path} already processed according to log file. Skipping conversion.")
+        return
+    
+    #* Secondary check: Check if the markdown file already exists in the Datasets_md folder (Will remove later)
+    expected_md_path = os.path.join(md_folder, relative_path, md_file_name)
+    print(expected_md_path)
+    
+    if os.path.exists(expected_md_path):
+        logging.info(f"Markdown file {expected_md_path} already exists. Skipping conversion.")
+        # Add to log file if it exists but wasn't logged
+        add_to_log(target_path, log_file_path)
+        return
+    
+    # Ensure the target subfolder exists inside 'Datasets_md'
+    os.makedirs(md_folder, exist_ok=True)
     
     # Call converter
     converter = md_converter()
@@ -79,8 +138,17 @@ def convert_md(target_path,md_converter,*args): #TODO: Add checking if a convere
         return
 
     # Write the result to the markdown file
-    with open(md_txt, 'w') as md_file:
-        md_file.write(result.document.export_to_markdown())
+    try:
+        with open(md_txt, 'w', encoding='utf-8') as md_file:
+            md_file.write(result.document.export_to_markdown())
+        
+        # Log the successful conversion
+        add_to_log(target_path, log_file_path)
+        logging.info(f"Successfully saved markdown file to {md_txt}")
+        
+    except Exception as e:
+        logging.error(f"Error writing markdown file {md_txt}: {e}")
+        return
 
 def extract(topic=None,subtopic=None,file=None):
     """Extracts the `Datasets` directory for all files using MarkitDown util. See the [MarkitDown repo](https://github.com/microsoft/markitdown/) for more info including

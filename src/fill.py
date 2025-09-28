@@ -3,8 +3,13 @@
 import os
 import subprocess
 
-for root, dirs, files in os.walk('Datasets_md') :
-    for fir in dirs:
-        file_name = f"{root}/{fir}/{fir}.txt"
-        print(file_name)
-        subprocess.run(['touch',file_name])
+def process_placeholder_files(key):
+    for root, dirs, files in os.walk('../Datasets/') :
+        for fir in dirs:
+            file_name = f"{root}/{fir}/{fir}.txt"
+            if key == 'add':
+                subprocess.run(['touch',file_name])
+            elif key == 'remove':
+                if os.path.exists(file_name):
+                    os.remove(file_name)
+process_placeholder_files('remove')  
