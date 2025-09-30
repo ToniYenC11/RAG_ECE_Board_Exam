@@ -1,0 +1,36 @@
+/home/toni11/Documents/Programming_Projects/RAG_Review/Datasets/Others/BS_ECE_CMO-101-s.-2017-BS-Electronics-Engineering.pdf
+/home/toni11/Documents/Programming_Projects/RAG_Review/Datasets/Others/ECE_TOS.pdf
+/home/toni11/Documents/Programming_Projects/RAG_Review/Datasets/GEAS/Chemistry/General Chemistry_ The Essential Concepts_Glossary.pdf
+/home/toni11/Documents/Programming_Projects/RAG_Review/Datasets/GEAS/Chemistry/General chemistry for engineers-Glossary.pdf
+/home/toni11/Documents/Programming_Projects/RAG_Review/Datasets/GEAS/Chemistry/Thermodynamic-Data-at-1-atm-and-250C (1)-converted.pdf
+/home/toni11/Documents/Programming_Projects/RAG_Review/Datasets/GEAS/Chemistry/MATERIAL 2 CHET  LEC-converted.pdf
+/home/toni11/Documents/Programming_Projects/RAG_Review/Datasets/GEAS/Chemistry/MATERIAL 1 CHET LEC-converted.pdf
+/home/toni11/Documents/Programming_Projects/RAG_Review/Datasets/GEAS/Chemistry/1 Thermochemistry and Molecular Energetics ( PDFDrive ) (1).pdf
+/home/toni11/Documents/Programming_Projects/RAG_Review/Datasets/GEAS/Chemistry/MATERIAL 4 (ELECTROCHEMISTRY) - CHET LEC-converted.pdf
+/home/toni11/Documents/Programming_Projects/RAG_Review/Datasets/GEAS/Chemistry/MATERIAL 3 (ELECTROCHEM) - CHET LEC-converted.pdf
+/home/toni11/Documents/Programming_Projects/RAG_Review/Datasets/GEAS/Chemistry/ACTIVITY SERIES OF METALS.pdf
+/home/toni11/Documents/Programming_Projects/RAG_Review/Datasets/GEAS/Chemistry/MATERIAL 5 (NUCLEAR CHEMISTRY).pdf
+/home/toni11/Documents/Programming_Projects/RAG_Review/Datasets/GEAS/Chemistry/MATERIAL 6 (FUELS).pdf
+/home/toni11/Documents/Programming_Projects/RAG_Review/Datasets/GEAS/Chemistry/MATERIAL 7 - CRYSTALLINE SOLIDS.pdf
+/home/toni11/Documents/Programming_Projects/RAG_Review/Datasets/GEAS/Chemistry/Band Theory and Electronic Properties of Solids by John Singleton (z-lib.org).pdf
+/home/toni11/Documents/Programming_Projects/RAG_Review/Datasets/GEAS/Chemistry/MATERIAL 8 - METALS.pdf
+/home/toni11/Documents/Programming_Projects/RAG_Review/Datasets/GEAS/Chemistry/MATERIALS 9 and 10 (POLYMERS AND NANOTECHNOLOGY).pdf
+/home/toni11/Documents/Programming_Projects/RAG_Review/Datasets/GEAS/Chemistry/Applied Chemistry_ A Textbook for Engineers and Technologists- O.V. Roussak, H. D. Gesser.pdf
+/home/toni11/Documents/Programming_Projects/RAG_Review/Datasets/GEAS/EngMan/RICHARD L DAFT - MANAGEMENT (2010) - libgen.li.pdf
+/home/toni11/Documents/Programming_Projects/RAG_Review/Datasets/GEAS/EngMan_TQM/DMAIC - The 5 Phases of Lean Six Sigma .pdf
+/home/toni11/Documents/Programming_Projects/RAG_Review/Datasets/GEAS/EngMan_TQM/ISO-9001-2015.pdf
+/home/toni11/Documents/Programming_Projects/RAG_Review/Datasets/GEAS/EngMan_TQM/Six Sigma Definition - What is Lean Six Sigma_ASQ.pdf
+/home/toni11/Documents/Programming_Projects/RAG_Review/Datasets/GEAS/EngMan_TQM/Charting for Quality.pptx
+/home/toni11/Documents/Programming_Projects/RAG_Review/Datasets/GEAS/Laws/ECE_Code_of_Ethics.pdf
+/home/toni11/Documents/Programming_Projects/RAG_Review/Datasets/GEAS/Laws/Republic Act No. 10173.pdf
+/home/toni11/Documents/Programming_Projects/RAG_Review/Datasets/GEAS/Laws/Republic Act No. 10175.pdf
+/home/toni11/Documents/Programming_Projects/RAG_Review/Datasets/GEAS/Laws/Republic Act No. 5734.pdf
+/home/toni11/Documents/Programming_Projects/RAG_Review/Datasets/GEAS/Laws/Republic Act No. 9292.pdf
+/home/toni11/Documents/Programming_Projects/RAG_Review/Datasets/GEAS/Laws/manual-of-professional-practice-for-electronics-engineers.pdf
+/home/toni11/Documents/Programming_Projects/RAG_Review/Datasets/GEAS/CAD/AutoCAD-Shortcuts-Guide-Autodesk.pdf
+/home/toni11/Documents/Programming_Projects/RAG_Review/Datasets/GEAS/CAD/Getting Started AutoCad Electrical 2005- Electrical Manual (2004, Autocad) - libgen.li.pdf
+/home/toni11/Documents/Programming_Projects/RAG_Review/Datasets/GEAS/CAD/[AutoCAD-litteratur fra Forlaget Uhrskov] Uhrskov, Frede - AutoCAD 2013 - 2D øvelser til bygningstegning (2012, Forlaget Uhrskov) - libgen.li.pdf
+
+/home/toni11/Documents/Programming_Projects/RAG_Review/Datasets/ElectronicsEng/Micro/Topic 1A (1).pptx
+/home/toni11/Documents/Programming_Projects/RAG_Review/Datasets/ElectronicsEng/Micro/Chapter 2.pptx
+/home/toni11/Documents/Programming_Projects/RAG_Review/Datasets/Datasets_md/ECE_TOS.md
