@@ -18,6 +18,7 @@ from docling.document_converter import DocumentConverter
 import torch
 
 torch.device("cpu")
+os.system("CUDA_VISIBLE_DEVICES=''")
 
 def setup_logging(output_file):
     """Set up logging to both terminal and file."""

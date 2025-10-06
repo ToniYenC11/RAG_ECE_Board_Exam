@@ -1,0 +1,407 @@
+2025-10-06 20:10:50,390 - DEBUG - Extracting file: ../Datasets/Quizzes/IECEP-Interscholastic-Quiz-Show-Drill-2.pdf
+2025-10-06 20:10:50,404 - INFO - detected formats: [<InputFormat.PDF: 'pdf'>]
+2025-10-06 20:10:50,438 - INFO - Going to convert document batch...
+2025-10-06 20:10:50,439 - INFO - Initializing pipeline for StandardPdfPipeline with options hash e647edf348883bed75367b22fbe60347
+2025-10-06 20:10:50,454 - INFO - Loading plugin 'docling_defaults'
+2025-10-06 20:10:50,455 - INFO - Registered picture descriptions: ['vlm', 'api']
+2025-10-06 20:10:50,475 - INFO - Loading plugin 'docling_defaults'
+2025-10-06 20:10:50,478 - INFO - Registered ocr engines: ['easyocr', 'ocrmac', 'rapidocr', 'tesserocr', 'tesseract']
+2025-10-06 20:10:50,594 - INFO - Accelerator device: 'cpu'
+2025-10-06 20:10:54,410 - INFO - Accelerator device: 'cpu'
+2025-10-06 20:10:54,415 - DEBUG - Starting new HTTPS connection (1): huggingface.co:443
+2025-10-06 20:10:54,823 - DEBUG - https://huggingface.co:443 "GET /api/models/ds4sd/docling-layout-heron/revision/main HTTP/1.1" 200 882
+2025-10-06 20:10:56,299 - DEBUG - LayoutPredictor settings: {'model_name': 'RTDetrV2ForObjectDetection', 'safe_tensors_file': '/home/toni11/.cache/huggingface/hub/models--ds4sd--docling-layout-heron/snapshots/bdb7099d742220552d703932cc0ce0a26a7a8da8/model.safetensors', 'device': 'cpu', 'num_threads': 4, 'image_size': {'height': 640, 'width': 640}, 'threshold': 0.3}
+2025-10-06 20:10:56,563 - DEBUG - https://huggingface.co:443 "GET /api/models/ds4sd/docling-models/revision/v2.3.0 HTTP/1.1" 200 1080
+2025-10-06 20:10:56,589 - INFO - Accelerator device: 'cpu'
+2025-10-06 20:10:57,754 - INFO - Processing document IECEP-Interscholastic-Quiz-Show-Drill-2.pdf
+2025-10-06 20:11:10,594 - DEBUG - Finished converting pages 4/52 time=379.343
+2025-10-06 20:11:22,903 - DEBUG - Finished converting pages 8/52 time=391.653
+2025-10-06 20:11:35,222 - DEBUG - Finished converting pages 12/52 time=403.972
+2025-10-06 20:12:00,764 - DEBUG - Finished converting pages 16/52 time=429.513
+2025-10-06 20:12:12,803 - DEBUG - Finished converting pages 20/52 time=441.552
+2025-10-06 20:12:25,167 - DEBUG - Finished converting pages 24/52 time=453.917
+2025-10-06 20:12:37,530 - DEBUG - Finished converting pages 28/52 time=466.279
+2025-10-06 20:12:50,062 - DEBUG - Finished converting pages 32/52 time=478.812
+2025-10-06 20:13:02,320 - DEBUG - Finished converting pages 36/52 time=491.069
+2025-10-06 20:13:24,294 - DEBUG - Finished converting pages 40/52 time=513.043
+2025-10-06 20:13:42,087 - DEBUG - Finished converting pages 44/52 time=530.836
+2025-10-06 20:13:54,546 - DEBUG - Finished converting pages 48/52 time=543.295
+2025-10-06 20:14:06,830 - DEBUG - Finished converting pages 52/52 time=555.580
+2025-10-06 20:14:06,917 - INFO - Finished converting document IECEP-Interscholastic-Quiz-Show-Drill-2.pdf in 196.51 sec.
+2025-10-06 20:14:06,920 - INFO - Successfully converted /home/toni11/Documents/Programming_Projects/RAG_Review/Datasets/Quizzes/IECEP-Interscholastic-Quiz-Show-Drill-2.pdf
+2025-10-06 20:14:07,004 - INFO - Successfully saved markdown file to /home/toni11/Documents/Programming_Projects/RAG_Review/Datasets_md/Quizzes/IECEP-Interscholastic-Quiz-Show-Drill-2.md
+2025-10-06 20:14:07,004 - INFO - File /home/toni11/Documents/Programming_Projects/RAG_Review/Datasets/Quizzes/IECEP-Interscholastic-Quiz-Show-Drill-2.pdf already processed according to log file. Skipping conversion.
+2025-10-06 20:14:07,019 - DEBUG - Extracting file: ../Datasets/Quizzes/IECEP-Interscholastic-Quiz-Show-Drill-1.pdf
+2025-10-06 20:14:07,038 - INFO - detected formats: [<InputFormat.PDF: 'pdf'>]
+2025-10-06 20:14:07,050 - INFO - Going to convert document batch...
+2025-10-06 20:14:07,051 - INFO - Initializing pipeline for StandardPdfPipeline with options hash e647edf348883bed75367b22fbe60347
+2025-10-06 20:14:07,051 - INFO - Accelerator device: 'cpu'
+2025-10-06 20:14:11,248 - INFO - Accelerator device: 'cpu'
+2025-10-06 20:14:11,525 - DEBUG - https://huggingface.co:443 "GET /api/models/ds4sd/docling-layout-heron/revision/main HTTP/1.1" 200 882
+2025-10-06 20:14:12,442 - DEBUG - LayoutPredictor settings: {'model_name': 'RTDetrV2ForObjectDetection', 'safe_tensors_file': '/home/toni11/.cache/huggingface/hub/models--ds4sd--docling-layout-heron/snapshots/bdb7099d742220552d703932cc0ce0a26a7a8da8/model.safetensors', 'device': 'cpu', 'num_threads': 4, 'image_size': {'height': 640, 'width': 640}, 'threshold': 0.3}
+2025-10-06 20:14:12,716 - DEBUG - https://huggingface.co:443 "GET /api/models/ds4sd/docling-models/revision/v2.3.0 HTTP/1.1" 200 1080
+2025-10-06 20:14:12,722 - INFO - Accelerator device: 'cpu'
+2025-10-06 20:14:13,420 - INFO - Processing document IECEP-Interscholastic-Quiz-Show-Drill-1.pdf
+2025-10-06 20:14:25,797 - DEBUG - Finished converting pages 4/52 time=574.546
+2025-10-06 20:14:38,315 - DEBUG - Finished converting pages 8/52 time=587.064
+2025-10-06 20:14:50,473 - DEBUG - Finished converting pages 12/52 time=599.222
+2025-10-06 20:15:09,309 - DEBUG - Finished converting pages 16/52 time=618.059
+2025-10-06 20:15:22,226 - DEBUG - Finished converting pages 20/52 time=630.976
+2025-10-06 20:15:41,992 - DEBUG - Finished converting pages 24/52 time=650.741
+2025-10-06 20:15:54,690 - DEBUG - Finished converting pages 28/52 time=663.440
+2025-10-06 20:16:22,081 - DEBUG - Finished converting pages 32/52 time=690.831
+2025-10-06 20:16:34,386 - DEBUG - Finished converting pages 36/52 time=703.135
+2025-10-06 20:16:46,760 - DEBUG - Finished converting pages 40/52 time=715.509
+2025-10-06 20:16:59,000 - DEBUG - Finished converting pages 44/52 time=727.749
+2025-10-06 20:17:10,725 - DEBUG - Finished converting pages 48/52 time=739.475
+2025-10-06 20:17:22,468 - DEBUG - Finished converting pages 52/52 time=751.217
+2025-10-06 20:17:22,553 - INFO - Finished converting document IECEP-Interscholastic-Quiz-Show-Drill-1.pdf in 195.52 sec.
+2025-10-06 20:17:22,554 - INFO - Successfully converted /home/toni11/Documents/Programming_Projects/RAG_Review/Datasets/Quizzes/IECEP-Interscholastic-Quiz-Show-Drill-1.pdf
+2025-10-06 20:17:22,588 - INFO - Successfully saved markdown file to /home/toni11/Documents/Programming_Projects/RAG_Review/Datasets_md/Quizzes/IECEP-Interscholastic-Quiz-Show-Drill-1.md
+2025-10-06 20:17:22,588 - INFO - File /home/toni11/Documents/Programming_Projects/RAG_Review/Datasets/Quizzes/IECEP-Interscholastic-Quiz-Show-Drill-1.pdf already processed according to log file. Skipping conversion.
+2025-10-06 20:17:22,592 - DEBUG - Extracting file: ../Datasets/Quizzes/IECEP-ESAT.pdf
+2025-10-06 20:17:22,608 - INFO - detected formats: [<InputFormat.PDF: 'pdf'>]
+2025-10-06 20:17:22,614 - INFO - Going to convert document batch...
+2025-10-06 20:17:22,614 - INFO - Initializing pipeline for StandardPdfPipeline with options hash e647edf348883bed75367b22fbe60347
+2025-10-06 20:17:22,615 - INFO - Accelerator device: 'cpu'
+2025-10-06 20:17:26,155 - INFO - Accelerator device: 'cpu'
+2025-10-06 20:17:26,485 - DEBUG - https://huggingface.co:443 "GET /api/models/ds4sd/docling-layout-heron/revision/main HTTP/1.1" 200 882
+2025-10-06 20:17:27,601 - DEBUG - LayoutPredictor settings: {'model_name': 'RTDetrV2ForObjectDetection', 'safe_tensors_file': '/home/toni11/.cache/huggingface/hub/models--ds4sd--docling-layout-heron/snapshots/bdb7099d742220552d703932cc0ce0a26a7a8da8/model.safetensors', 'device': 'cpu', 'num_threads': 4, 'image_size': {'height': 640, 'width': 640}, 'threshold': 0.3}
+2025-10-06 20:17:27,865 - DEBUG - https://huggingface.co:443 "GET /api/models/ds4sd/docling-models/revision/v2.3.0 HTTP/1.1" 200 1080
+2025-10-06 20:17:27,869 - INFO - Accelerator device: 'cpu'
+2025-10-06 20:17:28,541 - INFO - Processing document IECEP-ESAT.pdf
+2025-10-06 20:18:08,675 - DEBUG - Finished converting pages 4/29 time=797.424
+2025-10-06 20:18:47,369 - DEBUG - Finished converting pages 8/29 time=836.118
+2025-10-06 20:19:25,590 - DEBUG - Finished converting pages 12/29 time=874.339
+2025-10-06 20:19:56,555 - DEBUG - Finished converting pages 16/29 time=905.304
+2025-10-06 20:20:35,086 - DEBUG - Finished converting pages 20/29 time=943.835
+2025-10-06 20:21:09,550 - DEBUG - Finished converting pages 24/29 time=978.299
+2025-10-06 20:21:42,177 - DEBUG - Finished converting pages 28/29 time=1010.926
+2025-10-06 20:21:47,116 - DEBUG - Finished converting pages 29/29 time=1015.866
+2025-10-06 20:21:47,166 - INFO - Finished converting document IECEP-ESAT.pdf in 264.56 sec.
+2025-10-06 20:21:47,167 - INFO - Successfully converted /home/toni11/Documents/Programming_Projects/RAG_Review/Datasets/Quizzes/IECEP-ESAT.pdf
+2025-10-06 20:21:47,279 - INFO - Successfully saved markdown file to /home/toni11/Documents/Programming_Projects/RAG_Review/Datasets_md/Quizzes/IECEP-ESAT.md
+2025-10-06 20:21:47,280 - INFO - File /home/toni11/Documents/Programming_Projects/RAG_Review/Datasets/Quizzes/IECEP-ESAT.pdf already processed according to log file. Skipping conversion.
+2025-10-06 20:21:47,292 - DEBUG - Extracting file: ../Datasets/Quizzes/GEAS-IECEP.pdf
+2025-10-06 20:21:47,306 - INFO - detected formats: [<InputFormat.PDF: 'pdf'>]
+2025-10-06 20:21:47,314 - INFO - Going to convert document batch...
+2025-10-06 20:21:47,315 - INFO - Initializing pipeline for StandardPdfPipeline with options hash e647edf348883bed75367b22fbe60347
+2025-10-06 20:21:47,315 - INFO - Accelerator device: 'cpu'
+2025-10-06 20:21:50,517 - INFO - Accelerator device: 'cpu'
+2025-10-06 20:21:50,518 - DEBUG - Resetting dropped connection: huggingface.co
+2025-10-06 20:21:50,828 - DEBUG - https://huggingface.co:443 "GET /api/models/ds4sd/docling-layout-heron/revision/main HTTP/1.1" 200 882
+2025-10-06 20:21:51,566 - DEBUG - LayoutPredictor settings: {'model_name': 'RTDetrV2ForObjectDetection', 'safe_tensors_file': '/home/toni11/.cache/huggingface/hub/models--ds4sd--docling-layout-heron/snapshots/bdb7099d742220552d703932cc0ce0a26a7a8da8/model.safetensors', 'device': 'cpu', 'num_threads': 4, 'image_size': {'height': 640, 'width': 640}, 'threshold': 0.3}
+2025-10-06 20:21:52,279 - DEBUG - https://huggingface.co:443 "GET /api/models/ds4sd/docling-models/revision/v2.3.0 HTTP/1.1" 200 1080
+2025-10-06 20:21:52,284 - INFO - Accelerator device: 'cpu'
+2025-10-06 20:21:52,786 - INFO - Processing document GEAS-IECEP.pdf
+2025-10-06 20:22:28,050 - DEBUG - Finished converting pages 4/26 time=1056.799
+2025-10-06 20:22:55,751 - DEBUG - Finished converting pages 8/26 time=1084.500
+2025-10-06 20:23:21,344 - DEBUG - Finished converting pages 12/26 time=1110.093
+2025-10-06 20:23:50,374 - DEBUG - Finished converting pages 16/26 time=1139.123
+2025-10-06 20:24:23,662 - DEBUG - Finished converting pages 20/26 time=1172.412
+2025-10-06 20:24:48,370 - DEBUG - Finished converting pages 24/26 time=1197.119
+2025-10-06 20:24:58,080 - DEBUG - Finished converting pages 26/26 time=1206.829
+2025-10-06 20:24:58,133 - INFO - Finished converting document GEAS-IECEP.pdf in 190.83 sec.
+2025-10-06 20:24:58,134 - INFO - Successfully converted /home/toni11/Documents/Programming_Projects/RAG_Review/Datasets/Quizzes/GEAS-IECEP.pdf
+2025-10-06 20:24:58,238 - INFO - Successfully saved markdown file to /home/toni11/Documents/Programming_Projects/RAG_Review/Datasets_md/Quizzes/GEAS-IECEP.md
+2025-10-06 20:24:58,239 - INFO - File /home/toni11/Documents/Programming_Projects/RAG_Review/Datasets/Quizzes/GEAS-IECEP.pdf already processed according to log file. Skipping conversion.
+2025-10-06 20:24:58,251 - DEBUG - Extracting file: ../Datasets/Quizzes/Elecs4.pdf
+2025-10-06 20:24:58,268 - INFO - detected formats: [<InputFormat.PDF: 'pdf'>]
+2025-10-06 20:24:58,271 - INFO - Going to convert document batch...
+2025-10-06 20:24:58,271 - INFO - Initializing pipeline for StandardPdfPipeline with options hash e647edf348883bed75367b22fbe60347
+2025-10-06 20:24:58,272 - INFO - Accelerator device: 'cpu'
+2025-10-06 20:25:01,174 - INFO - Accelerator device: 'cpu'
+2025-10-06 20:25:01,434 - DEBUG - https://huggingface.co:443 "GET /api/models/ds4sd/docling-layout-heron/revision/main HTTP/1.1" 200 882
+2025-10-06 20:25:02,221 - DEBUG - LayoutPredictor settings: {'model_name': 'RTDetrV2ForObjectDetection', 'safe_tensors_file': '/home/toni11/.cache/huggingface/hub/models--ds4sd--docling-layout-heron/snapshots/bdb7099d742220552d703932cc0ce0a26a7a8da8/model.safetensors', 'device': 'cpu', 'num_threads': 4, 'image_size': {'height': 640, 'width': 640}, 'threshold': 0.3}
+2025-10-06 20:25:02,566 - DEBUG - https://huggingface.co:443 "GET /api/models/ds4sd/docling-models/revision/v2.3.0 HTTP/1.1" 200 1080
+2025-10-06 20:25:02,572 - INFO - Accelerator device: 'cpu'
+2025-10-06 20:25:03,105 - INFO - Processing document Elecs4.pdf
+2025-10-06 20:25:12,685 - DEBUG - Finished converting pages 3/3 time=1221.434
+2025-10-06 20:25:12,863 - INFO - Finished converting document Elecs4.pdf in 14.60 sec.
+2025-10-06 20:25:12,864 - INFO - Successfully converted /home/toni11/Documents/Programming_Projects/RAG_Review/Datasets/Quizzes/Elecs4.pdf
+2025-10-06 20:25:12,917 - INFO - Successfully saved markdown file to /home/toni11/Documents/Programming_Projects/RAG_Review/Datasets_md/Quizzes/Elecs4.md
+2025-10-06 20:25:12,918 - INFO - File /home/toni11/Documents/Programming_Projects/RAG_Review/Datasets/Quizzes/Elecs4.pdf already processed according to log file. Skipping conversion.
+2025-10-06 20:25:12,924 - DEBUG - Extracting file: ../Datasets/Quizzes/Elecs3.pdf
+2025-10-06 20:25:12,939 - INFO - detected formats: [<InputFormat.PDF: 'pdf'>]
+2025-10-06 20:25:12,944 - INFO - Going to convert document batch...
+2025-10-06 20:25:12,945 - INFO - Initializing pipeline for StandardPdfPipeline with options hash e647edf348883bed75367b22fbe60347
+2025-10-06 20:25:12,945 - INFO - Accelerator device: 'cpu'
+2025-10-06 20:25:15,951 - INFO - Accelerator device: 'cpu'
+2025-10-06 20:25:16,205 - DEBUG - https://huggingface.co:443 "GET /api/models/ds4sd/docling-layout-heron/revision/main HTTP/1.1" 200 882
+2025-10-06 20:25:16,997 - DEBUG - LayoutPredictor settings: {'model_name': 'RTDetrV2ForObjectDetection', 'safe_tensors_file': '/home/toni11/.cache/huggingface/hub/models--ds4sd--docling-layout-heron/snapshots/bdb7099d742220552d703932cc0ce0a26a7a8da8/model.safetensors', 'device': 'cpu', 'num_threads': 4, 'image_size': {'height': 640, 'width': 640}, 'threshold': 0.3}
+2025-10-06 20:25:17,263 - DEBUG - https://huggingface.co:443 "GET /api/models/ds4sd/docling-models/revision/v2.3.0 HTTP/1.1" 200 1080
+2025-10-06 20:25:17,269 - INFO - Accelerator device: 'cpu'
+2025-10-06 20:25:17,725 - INFO - Processing document Elecs3.pdf
+2025-10-06 20:25:30,793 - DEBUG - Finished converting pages 4/4 time=1239.542
+2025-10-06 20:25:31,089 - INFO - Finished converting document Elecs3.pdf in 18.15 sec.
+2025-10-06 20:25:31,089 - INFO - Successfully converted /home/toni11/Documents/Programming_Projects/RAG_Review/Datasets/Quizzes/Elecs3.pdf
+2025-10-06 20:25:31,163 - INFO - Successfully saved markdown file to /home/toni11/Documents/Programming_Projects/RAG_Review/Datasets_md/Quizzes/Elecs3.md
+2025-10-06 20:25:31,164 - INFO - File /home/toni11/Documents/Programming_Projects/RAG_Review/Datasets/Quizzes/Elecs3.pdf already processed according to log file. Skipping conversion.
+2025-10-06 20:25:31,167 - DEBUG - Extracting file: ../Datasets/Quizzes/Elecs2.pdf
+2025-10-06 20:25:31,179 - INFO - detected formats: [<InputFormat.PDF: 'pdf'>]
+2025-10-06 20:25:31,183 - INFO - Going to convert document batch...
+2025-10-06 20:25:31,183 - INFO - Initializing pipeline for StandardPdfPipeline with options hash e647edf348883bed75367b22fbe60347
+2025-10-06 20:25:31,184 - INFO - Accelerator device: 'cpu'
+2025-10-06 20:25:33,931 - INFO - Accelerator device: 'cpu'
+2025-10-06 20:25:34,197 - DEBUG - https://huggingface.co:443 "GET /api/models/ds4sd/docling-layout-heron/revision/main HTTP/1.1" 200 882
+2025-10-06 20:25:35,144 - DEBUG - LayoutPredictor settings: {'model_name': 'RTDetrV2ForObjectDetection', 'safe_tensors_file': '/home/toni11/.cache/huggingface/hub/models--ds4sd--docling-layout-heron/snapshots/bdb7099d742220552d703932cc0ce0a26a7a8da8/model.safetensors', 'device': 'cpu', 'num_threads': 4, 'image_size': {'height': 640, 'width': 640}, 'threshold': 0.3}
+2025-10-06 20:25:35,410 - DEBUG - https://huggingface.co:443 "GET /api/models/ds4sd/docling-models/revision/v2.3.0 HTTP/1.1" 200 1080
+2025-10-06 20:25:35,415 - INFO - Accelerator device: 'cpu'
+2025-10-06 20:25:35,972 - INFO - Processing document Elecs2.pdf
+2025-10-06 20:25:48,835 - DEBUG - Finished converting pages 4/4 time=1257.585
+2025-10-06 20:25:49,177 - INFO - Finished converting document Elecs2.pdf in 18.00 sec.
+2025-10-06 20:25:49,177 - INFO - Successfully converted /home/toni11/Documents/Programming_Projects/RAG_Review/Datasets/Quizzes/Elecs2.pdf
+2025-10-06 20:25:49,244 - INFO - Successfully saved markdown file to /home/toni11/Documents/Programming_Projects/RAG_Review/Datasets_md/Quizzes/Elecs2.md
+2025-10-06 20:25:49,244 - INFO - File /home/toni11/Documents/Programming_Projects/RAG_Review/Datasets/Quizzes/Elecs2.pdf already processed according to log file. Skipping conversion.
+2025-10-06 20:25:49,250 - DEBUG - Extracting file: ../Datasets/Quizzes/Elecs1.pdf
+2025-10-06 20:25:49,272 - INFO - detected formats: [<InputFormat.PDF: 'pdf'>]
+2025-10-06 20:25:49,279 - INFO - Going to convert document batch...
+2025-10-06 20:25:49,279 - INFO - Initializing pipeline for StandardPdfPipeline with options hash e647edf348883bed75367b22fbe60347
+2025-10-06 20:25:49,280 - INFO - Accelerator device: 'cpu'
+2025-10-06 20:25:51,990 - INFO - Accelerator device: 'cpu'
+2025-10-06 20:25:52,491 - DEBUG - https://huggingface.co:443 "GET /api/models/ds4sd/docling-layout-heron/revision/main HTTP/1.1" 200 882
+2025-10-06 20:25:53,352 - DEBUG - LayoutPredictor settings: {'model_name': 'RTDetrV2ForObjectDetection', 'safe_tensors_file': '/home/toni11/.cache/huggingface/hub/models--ds4sd--docling-layout-heron/snapshots/bdb7099d742220552d703932cc0ce0a26a7a8da8/model.safetensors', 'device': 'cpu', 'num_threads': 4, 'image_size': {'height': 640, 'width': 640}, 'threshold': 0.3}
+2025-10-06 20:25:53,618 - DEBUG - https://huggingface.co:443 "GET /api/models/ds4sd/docling-models/revision/v2.3.0 HTTP/1.1" 200 1080
+2025-10-06 20:25:53,623 - INFO - Accelerator device: 'cpu'
+2025-10-06 20:25:54,115 - INFO - Processing document Elecs1.pdf
+2025-10-06 20:26:03,077 - DEBUG - Finished converting pages 3/3 time=1271.827
+2025-10-06 20:26:03,612 - INFO - Finished converting document Elecs1.pdf in 14.34 sec.
+2025-10-06 20:26:03,613 - INFO - Successfully converted /home/toni11/Documents/Programming_Projects/RAG_Review/Datasets/Quizzes/Elecs1.pdf
+2025-10-06 20:26:03,656 - INFO - Successfully saved markdown file to /home/toni11/Documents/Programming_Projects/RAG_Review/Datasets_md/Quizzes/Elecs1.md
+2025-10-06 20:26:03,656 - INFO - File /home/toni11/Documents/Programming_Projects/RAG_Review/Datasets/Quizzes/Elecs1.pdf already processed according to log file. Skipping conversion.
+2025-10-06 20:26:03,660 - DEBUG - Extracting file: ../Datasets/Quizzes/bnt_terms.txt
+2025-10-06 20:26:03,674 - INFO - detected formats: [<InputFormat.XML_USPTO: 'xml_uspto'>]
+2025-10-06 20:26:03,674 - ERROR - Input document bnt_terms.txt with format None does not match any allowed format: (dict_keys([<InputFormat.DOCX: 'docx'>, <InputFormat.PPTX: 'pptx'>, <InputFormat.HTML: 'html'>, <InputFormat.IMAGE: 'image'>, <InputFormat.PDF: 'pdf'>, <InputFormat.ASCIIDOC: 'asciidoc'>, <InputFormat.MD: 'md'>, <InputFormat.CSV: 'csv'>, <InputFormat.XLSX: 'xlsx'>, <InputFormat.XML_USPTO: 'xml_uspto'>, <InputFormat.XML_JATS: 'xml_jats'>, <InputFormat.METS_GBS: 'mets_gbs'>, <InputFormat.JSON_DOCLING: 'json_docling'>, <InputFormat.AUDIO: 'audio'>, <InputFormat.VTT: 'vtt'>]))
+2025-10-06 20:26:03,674 - INFO - Going to convert document batch...
+2025-10-06 20:26:03,674 - ERROR - Error converting file /home/toni11/Documents/Programming_Projects/RAG_Review/Datasets/Quizzes/bnt_terms.txt: File format not allowed: bnt_terms.txt
+2025-10-06 20:26:03,675 - DEBUG - Extracting file: ../Datasets/Quizzes/Written-Set-A.pdf
+2025-10-06 20:26:03,688 - INFO - detected formats: [<InputFormat.PDF: 'pdf'>]
+2025-10-06 20:26:03,691 - INFO - Going to convert document batch...
+2025-10-06 20:26:03,692 - INFO - Initializing pipeline for StandardPdfPipeline with options hash e647edf348883bed75367b22fbe60347
+2025-10-06 20:26:03,692 - INFO - Accelerator device: 'cpu'
+2025-10-06 20:26:07,106 - INFO - Accelerator device: 'cpu'
+2025-10-06 20:26:07,375 - DEBUG - https://huggingface.co:443 "GET /api/models/ds4sd/docling-layout-heron/revision/main HTTP/1.1" 200 882
+2025-10-06 20:26:08,451 - DEBUG - LayoutPredictor settings: {'model_name': 'RTDetrV2ForObjectDetection', 'safe_tensors_file': '/home/toni11/.cache/huggingface/hub/models--ds4sd--docling-layout-heron/snapshots/bdb7099d742220552d703932cc0ce0a26a7a8da8/model.safetensors', 'device': 'cpu', 'num_threads': 4, 'image_size': {'height': 640, 'width': 640}, 'threshold': 0.3}
+2025-10-06 20:26:08,826 - DEBUG - https://huggingface.co:443 "GET /api/models/ds4sd/docling-models/revision/v2.3.0 HTTP/1.1" 200 1080
+2025-10-06 20:26:08,832 - INFO - Accelerator device: 'cpu'
+2025-10-06 20:26:09,415 - INFO - Processing document Written-Set-A.pdf
+2025-10-06 20:26:31,346 - DEBUG - Finished converting pages 4/7 time=1300.095
+2025-10-06 20:27:01,687 - DEBUG - Finished converting pages 7/7 time=1330.437
+2025-10-06 20:27:01,724 - INFO - Finished converting document Written-Set-A.pdf in 58.04 sec.
+2025-10-06 20:27:01,725 - INFO - Successfully converted /home/toni11/Documents/Programming_Projects/RAG_Review/Datasets/Quizzes/Written-Set-A.pdf
+2025-10-06 20:27:01,747 - INFO - Successfully saved markdown file to /home/toni11/Documents/Programming_Projects/RAG_Review/Datasets_md/Quizzes/Written-Set-A.md
+2025-10-06 20:27:01,748 - INFO - File /home/toni11/Documents/Programming_Projects/RAG_Review/Datasets/Quizzes/Written-Set-A.pdf already processed according to log file. Skipping conversion.
+2025-10-06 20:27:01,753 - DEBUG - Extracting file: ../Datasets/Quizzes/SQZ_College_Written_SetB.pdf
+2025-10-06 20:27:01,772 - INFO - detected formats: [<InputFormat.PDF: 'pdf'>]
+2025-10-06 20:27:01,774 - ERROR - An unexpected error occurred while opening the document SQZ_College_Written_SetB.pdf
+Traceback (most recent call last):
+  File "/home/toni11/.local/share/virtualenvs/RAG_Review-b3yolc-1/lib/python3.12/site-packages/docling/datamodel/document.py", line 152, in __init__
+    self._init_doc(backend, path_or_stream)
+  File "/home/toni11/.local/share/virtualenvs/RAG_Review-b3yolc-1/lib/python3.12/site-packages/docling/datamodel/document.py", line 188, in _init_doc
+    self._backend = backend(self, path_or_stream=path_or_stream)
+                    ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/toni11/.local/share/virtualenvs/RAG_Review-b3yolc-1/lib/python3.12/site-packages/docling/backend/docling_parse_v4_backend.py", line 196, in __init__
+    self._pdoc = pdfium.PdfDocument(self.path_or_stream)
+                 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/toni11/.local/share/virtualenvs/RAG_Review-b3yolc-1/lib64/python3.12/site-packages/pypdfium2/_helpers/document.py", line 78, in __init__
+    self.raw, to_hold, to_close = _open_pdf(self._input, self._password, self._autoclose)
+                                  ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/toni11/.local/share/virtualenvs/RAG_Review-b3yolc-1/lib64/python3.12/site-packages/pypdfium2/_helpers/document.py", line 678, in _open_pdf
+    raise PdfiumError(f"Failed to load document (PDFium: {pdfium_i.ErrorToStr.get(err_code)}).")
+pypdfium2._helpers.misc.PdfiumError: Failed to load document (PDFium: Incorrect password error).
+2025-10-06 20:27:01,777 - INFO - Going to convert document batch...
+2025-10-06 20:27:01,777 - ERROR - Error converting file /home/toni11/Documents/Programming_Projects/RAG_Review/Datasets/Quizzes/SQZ_College_Written_SetB.pdf: Input document SQZ_College_Written_SetB.pdf is not valid.
+2025-10-06 20:27:01,778 - DEBUG - Extracting file: ../Datasets/Quizzes/SQZ_College_Orals_QnA (1).pdf
+2025-10-06 20:27:01,797 - INFO - detected formats: [<InputFormat.PDF: 'pdf'>]
+2025-10-06 20:27:01,804 - INFO - Going to convert document batch...
+2025-10-06 20:27:01,805 - INFO - Initializing pipeline for StandardPdfPipeline with options hash e647edf348883bed75367b22fbe60347
+2025-10-06 20:27:01,805 - INFO - Accelerator device: 'cpu'
+2025-10-06 20:27:04,586 - INFO - Accelerator device: 'cpu'
+2025-10-06 20:27:04,845 - DEBUG - https://huggingface.co:443 "GET /api/models/ds4sd/docling-layout-heron/revision/main HTTP/1.1" 200 882
+2025-10-06 20:27:05,565 - DEBUG - LayoutPredictor settings: {'model_name': 'RTDetrV2ForObjectDetection', 'safe_tensors_file': '/home/toni11/.cache/huggingface/hub/models--ds4sd--docling-layout-heron/snapshots/bdb7099d742220552d703932cc0ce0a26a7a8da8/model.safetensors', 'device': 'cpu', 'num_threads': 4, 'image_size': {'height': 640, 'width': 640}, 'threshold': 0.3}
+2025-10-06 20:27:05,830 - DEBUG - https://huggingface.co:443 "GET /api/models/ds4sd/docling-models/revision/v2.3.0 HTTP/1.1" 200 1080
+2025-10-06 20:27:05,834 - INFO - Accelerator device: 'cpu'
+2025-10-06 20:27:06,286 - INFO - Processing document SQZ_College_Orals_QnA (1).pdf
+2025-10-06 20:27:20,031 - DEBUG - Finished converting pages 4/12 time=1348.780
+2025-10-06 20:27:46,763 - DEBUG - Finished converting pages 8/12 time=1375.512
+2025-10-06 20:28:08,527 - DEBUG - Finished converting pages 12/12 time=1397.276
+2025-10-06 20:28:08,704 - INFO - Finished converting document SQZ_College_Orals_QnA (1).pdf in 66.91 sec.
+2025-10-06 20:28:08,705 - INFO - Successfully converted /home/toni11/Documents/Programming_Projects/RAG_Review/Datasets/Quizzes/SQZ_College_Orals_QnA (1).pdf
+2025-10-06 20:28:08,781 - INFO - Successfully saved markdown file to /home/toni11/Documents/Programming_Projects/RAG_Review/Datasets_md/Quizzes/SQZ_College_Orals_QnA (1).md
+2025-10-06 20:28:08,781 - INFO - File /home/toni11/Documents/Programming_Projects/RAG_Review/Datasets/Quizzes/SQZ_College_Orals_QnA (1).pdf already processed according to log file. Skipping conversion.
+2025-10-06 20:28:08,795 - DEBUG - Extracting file: ../Datasets/Quizzes/SquEEEze Full Drill 3 (2022 Rulebook).pdf
+2025-10-06 20:28:08,812 - INFO - detected formats: [<InputFormat.PDF: 'pdf'>]
+2025-10-06 20:28:08,825 - INFO - Going to convert document batch...
+2025-10-06 20:28:08,825 - INFO - Initializing pipeline for StandardPdfPipeline with options hash e647edf348883bed75367b22fbe60347
+2025-10-06 20:28:08,826 - INFO - Accelerator device: 'cpu'
+2025-10-06 20:28:11,705 - INFO - Accelerator device: 'cpu'
+2025-10-06 20:28:11,977 - DEBUG - https://huggingface.co:443 "GET /api/models/ds4sd/docling-layout-heron/revision/main HTTP/1.1" 200 882
+2025-10-06 20:28:13,028 - DEBUG - LayoutPredictor settings: {'model_name': 'RTDetrV2ForObjectDetection', 'safe_tensors_file': '/home/toni11/.cache/huggingface/hub/models--ds4sd--docling-layout-heron/snapshots/bdb7099d742220552d703932cc0ce0a26a7a8da8/model.safetensors', 'device': 'cpu', 'num_threads': 4, 'image_size': {'height': 640, 'width': 640}, 'threshold': 0.3}
+2025-10-06 20:28:13,299 - DEBUG - https://huggingface.co:443 "GET /api/models/ds4sd/docling-models/revision/v2.3.0 HTTP/1.1" 200 1080
+2025-10-06 20:28:13,306 - INFO - Accelerator device: 'cpu'
+2025-10-06 20:28:13,807 - INFO - Processing document SquEEEze Full Drill 3 (2022 Rulebook).pdf
+2025-10-06 20:28:28,394 - DEBUG - Finished converting pages 4/64 time=1417.143
+2025-10-06 20:28:45,410 - DEBUG - Finished converting pages 8/64 time=1434.159
+2025-10-06 20:28:59,772 - DEBUG - Finished converting pages 12/64 time=1448.521
+2025-10-06 20:29:09,122 - DEBUG - Finished converting pages 16/64 time=1457.871
+2025-10-06 20:29:21,150 - DEBUG - Finished converting pages 20/64 time=1469.900
+2025-10-06 20:29:41,440 - DEBUG - Finished converting pages 24/64 time=1490.189
+2025-10-06 20:29:54,911 - DEBUG - Finished converting pages 28/64 time=1503.661
+2025-10-06 20:30:10,038 - DEBUG - Finished converting pages 32/64 time=1518.787
+2025-10-06 20:30:22,645 - DEBUG - Finished converting pages 36/64 time=1531.395
+2025-10-06 20:30:32,266 - DEBUG - Finished converting pages 40/64 time=1541.016
+2025-10-06 20:30:39,513 - DEBUG - Finished converting pages 44/64 time=1548.262
+2025-10-06 20:30:54,626 - DEBUG - Finished converting pages 48/64 time=1563.376
+2025-10-06 20:31:00,812 - DEBUG - Finished converting pages 52/64 time=1569.561
+2025-10-06 20:31:14,072 - DEBUG - Finished converting pages 56/64 time=1582.821
+2025-10-06 20:31:22,150 - DEBUG - Finished converting pages 60/64 time=1590.899
+2025-10-06 20:31:28,428 - DEBUG - Finished converting pages 64/64 time=1597.178
+2025-10-06 20:31:28,519 - INFO - Finished converting document SquEEEze Full Drill 3 (2022 Rulebook).pdf in 199.71 sec.
+2025-10-06 20:31:28,520 - INFO - Successfully converted /home/toni11/Documents/Programming_Projects/RAG_Review/Datasets/Quizzes/SquEEEze Full Drill 3 (2022 Rulebook).pdf
+2025-10-06 20:31:28,563 - INFO - Successfully saved markdown file to /home/toni11/Documents/Programming_Projects/RAG_Review/Datasets_md/Quizzes/SquEEEze Full Drill 3 (2022 Rulebook).md
+2025-10-06 20:31:28,563 - INFO - File /home/toni11/Documents/Programming_Projects/RAG_Review/Datasets/Quizzes/SquEEEze Full Drill 3 (2022 Rulebook).pdf already processed according to log file. Skipping conversion.
+2025-10-06 20:31:28,568 - DEBUG - Extracting file: ../Datasets/Quizzes/SquEEEze All In Training Day 2.pdf
+2025-10-06 20:31:28,579 - INFO - detected formats: [<InputFormat.PDF: 'pdf'>]
+2025-10-06 20:31:28,588 - INFO - Going to convert document batch...
+2025-10-06 20:31:28,588 - INFO - Initializing pipeline for StandardPdfPipeline with options hash e647edf348883bed75367b22fbe60347
+2025-10-06 20:31:28,588 - INFO - Accelerator device: 'cpu'
+2025-10-06 20:31:30,877 - INFO - Accelerator device: 'cpu'
+2025-10-06 20:31:31,134 - DEBUG - https://huggingface.co:443 "GET /api/models/ds4sd/docling-layout-heron/revision/main HTTP/1.1" 200 882
+2025-10-06 20:31:31,686 - DEBUG - LayoutPredictor settings: {'model_name': 'RTDetrV2ForObjectDetection', 'safe_tensors_file': '/home/toni11/.cache/huggingface/hub/models--ds4sd--docling-layout-heron/snapshots/bdb7099d742220552d703932cc0ce0a26a7a8da8/model.safetensors', 'device': 'cpu', 'num_threads': 4, 'image_size': {'height': 640, 'width': 640}, 'threshold': 0.3}
+2025-10-06 20:31:31,950 - DEBUG - https://huggingface.co:443 "GET /api/models/ds4sd/docling-models/revision/v2.3.0 HTTP/1.1" 200 1080
+2025-10-06 20:31:31,954 - INFO - Accelerator device: 'cpu'
+2025-10-06 20:31:32,316 - INFO - Processing document SquEEEze All In Training Day 2.pdf
+2025-10-06 20:32:49,092 - DEBUG - Finished converting pages 4/74 time=1677.841
+2025-10-06 20:34:07,450 - DEBUG - Finished converting pages 8/74 time=1756.199
+2025-10-06 20:35:26,424 - DEBUG - Finished converting pages 12/74 time=1835.173
+2025-10-06 20:36:44,649 - DEBUG - Finished converting pages 16/74 time=1913.399
+2025-10-06 20:38:02,124 - DEBUG - Finished converting pages 20/74 time=1990.874
+2025-10-06 20:39:20,981 - DEBUG - Finished converting pages 24/74 time=2069.731
+2025-10-06 20:40:49,595 - DEBUG - Finished converting pages 28/74 time=2158.344
+2025-10-06 20:42:59,852 - DEBUG - Finished converting pages 32/74 time=2288.602
+2025-10-06 20:45:33,248 - DEBUG - Finished converting pages 36/74 time=2441.997
+2025-10-06 20:48:03,269 - DEBUG - Finished converting pages 40/74 time=2592.018
+2025-10-06 20:50:30,563 - DEBUG - Finished converting pages 44/74 time=2739.312
+2025-10-06 20:52:53,572 - DEBUG - Finished converting pages 48/74 time=2882.321
+2025-10-06 20:55:13,298 - DEBUG - Finished converting pages 52/74 time=3022.047
+2025-10-06 20:57:40,649 - DEBUG - Finished converting pages 56/74 time=3169.398
+2025-10-06 20:59:55,569 - DEBUG - Finished converting pages 60/74 time=3304.319
+2025-10-06 21:02:16,180 - DEBUG - Finished converting pages 64/74 time=3444.930
+2025-10-06 21:04:18,141 - DEBUG - Finished converting pages 68/74 time=3566.890
+2025-10-06 21:06:15,565 - DEBUG - Finished converting pages 72/74 time=3684.315
+2025-10-06 21:07:16,793 - DEBUG - Finished converting pages 74/74 time=3745.543
+2025-10-06 21:07:17,027 - INFO - Finished converting document SquEEEze All In Training Day 2.pdf in 2148.45 sec.
+2025-10-06 21:07:17,030 - INFO - Successfully converted /home/toni11/Documents/Programming_Projects/RAG_Review/Datasets/Quizzes/SquEEEze All In Training Day 2.pdf
+2025-10-06 21:07:17,131 - INFO - Successfully saved markdown file to /home/toni11/Documents/Programming_Projects/RAG_Review/Datasets_md/Quizzes/SquEEEze All In Training Day 2.md
+2025-10-06 21:07:17,132 - INFO - File /home/toni11/Documents/Programming_Projects/RAG_Review/Datasets/Quizzes/SquEEEze All In Training Day 2.pdf already processed according to log file. Skipping conversion.
+2025-10-06 21:07:17,141 - DEBUG - Extracting file: ../Datasets/Quizzes/SquEEEze All In Training Day 1.pdf
+2025-10-06 21:07:17,156 - INFO - detected formats: [<InputFormat.PDF: 'pdf'>]
+2025-10-06 21:07:17,167 - INFO - Going to convert document batch...
+2025-10-06 21:07:17,167 - INFO - Initializing pipeline for StandardPdfPipeline with options hash e647edf348883bed75367b22fbe60347
+2025-10-06 21:07:17,167 - INFO - Accelerator device: 'cpu'
+2025-10-06 21:07:20,512 - INFO - Accelerator device: 'cpu'
+2025-10-06 21:07:20,513 - DEBUG - Resetting dropped connection: huggingface.co
+2025-10-06 21:07:20,842 - DEBUG - https://huggingface.co:443 "GET /api/models/ds4sd/docling-layout-heron/revision/main HTTP/1.1" 200 882
+2025-10-06 21:07:21,754 - DEBUG - LayoutPredictor settings: {'model_name': 'RTDetrV2ForObjectDetection', 'safe_tensors_file': '/home/toni11/.cache/huggingface/hub/models--ds4sd--docling-layout-heron/snapshots/bdb7099d742220552d703932cc0ce0a26a7a8da8/model.safetensors', 'device': 'cpu', 'num_threads': 4, 'image_size': {'height': 640, 'width': 640}, 'threshold': 0.3}
+2025-10-06 21:07:22,017 - DEBUG - https://huggingface.co:443 "GET /api/models/ds4sd/docling-models/revision/v2.3.0 HTTP/1.1" 200 1080
+2025-10-06 21:07:22,022 - INFO - Accelerator device: 'cpu'
+2025-10-06 21:07:22,521 - INFO - Processing document SquEEEze All In Training Day 1.pdf
+2025-10-06 21:10:06,083 - DEBUG - Finished converting pages 4/74 time=3914.832
+2025-10-06 21:12:46,129 - DEBUG - Finished converting pages 8/74 time=4074.878
+2025-10-06 21:14:41,922 - DEBUG - Finished converting pages 12/74 time=4190.671
+2025-10-06 21:16:35,869 - DEBUG - Finished converting pages 16/74 time=4304.619
+2025-10-06 21:17:59,094 - DEBUG - Finished converting pages 20/74 time=4387.843
+2025-10-06 21:19:20,435 - DEBUG - Finished converting pages 24/74 time=4469.184
+2025-10-06 21:20:36,257 - DEBUG - Finished converting pages 28/74 time=4545.006
+2025-10-06 21:21:51,757 - DEBUG - Finished converting pages 32/74 time=4620.506
+2025-10-06 21:23:06,454 - DEBUG - Finished converting pages 36/74 time=4695.204
+2025-10-06 21:24:22,031 - DEBUG - Finished converting pages 40/74 time=4770.780
+2025-10-06 21:25:37,410 - DEBUG - Finished converting pages 44/74 time=4846.160
+2025-10-06 21:26:54,224 - DEBUG - Finished converting pages 48/74 time=4922.973
+2025-10-06 21:28:11,323 - DEBUG - Finished converting pages 52/74 time=5000.073
+2025-10-06 21:29:26,215 - DEBUG - Finished converting pages 56/74 time=5074.964
+2025-10-06 21:30:41,137 - DEBUG - Finished converting pages 60/74 time=5149.887
+2025-10-06 21:31:56,557 - DEBUG - Finished converting pages 64/74 time=5225.307
+2025-10-06 21:33:12,620 - DEBUG - Finished converting pages 68/74 time=5301.370
+2025-10-06 21:34:26,778 - DEBUG - Finished converting pages 72/74 time=5375.527
+2025-10-06 21:35:03,588 - DEBUG - Finished converting pages 74/74 time=5412.338
+2025-10-06 21:35:03,680 - INFO - Finished converting document SquEEEze All In Training Day 1.pdf in 1666.53 sec.
+2025-10-06 21:35:03,681 - INFO - Successfully converted /home/toni11/Documents/Programming_Projects/RAG_Review/Datasets/Quizzes/SquEEEze All In Training Day 1.pdf
+2025-10-06 21:35:03,727 - INFO - Successfully saved markdown file to /home/toni11/Documents/Programming_Projects/RAG_Review/Datasets_md/Quizzes/SquEEEze All In Training Day 1.md
+2025-10-06 21:35:03,727 - INFO - File /home/toni11/Documents/Programming_Projects/RAG_Review/Datasets/Quizzes/SquEEEze All In Training Day 1.pdf already processed according to log file. Skipping conversion.
+2025-10-06 21:35:03,732 - DEBUG - Extracting file: ../Datasets/Quizzes/Set-A-Key.pdf
+2025-10-06 21:35:03,741 - INFO - detected formats: [<InputFormat.PDF: 'pdf'>]
+2025-10-06 21:35:03,745 - INFO - Going to convert document batch...
+2025-10-06 21:35:03,745 - INFO - Initializing pipeline for StandardPdfPipeline with options hash e647edf348883bed75367b22fbe60347
+2025-10-06 21:35:03,745 - INFO - Accelerator device: 'cpu'
+2025-10-06 21:35:05,842 - INFO - Accelerator device: 'cpu'
+2025-10-06 21:35:05,843 - DEBUG - Resetting dropped connection: huggingface.co
+2025-10-06 21:35:06,225 - DEBUG - https://huggingface.co:443 "GET /api/models/ds4sd/docling-layout-heron/revision/main HTTP/1.1" 200 882
+2025-10-06 21:35:06,913 - DEBUG - LayoutPredictor settings: {'model_name': 'RTDetrV2ForObjectDetection', 'safe_tensors_file': '/home/toni11/.cache/huggingface/hub/models--ds4sd--docling-layout-heron/snapshots/bdb7099d742220552d703932cc0ce0a26a7a8da8/model.safetensors', 'device': 'cpu', 'num_threads': 4, 'image_size': {'height': 640, 'width': 640}, 'threshold': 0.3}
+2025-10-06 21:35:07,187 - DEBUG - https://huggingface.co:443 "GET /api/models/ds4sd/docling-models/revision/v2.3.0 HTTP/1.1" 200 1080
+2025-10-06 21:35:07,191 - INFO - Accelerator device: 'cpu'
+2025-10-06 21:35:07,523 - INFO - Processing document Set-A-Key.pdf
+2025-10-06 21:35:39,255 - DEBUG - Finished converting pages 4/10 time=5448.004
+2025-10-06 21:36:15,732 - DEBUG - Finished converting pages 8/10 time=5484.481
+2025-10-06 21:36:30,960 - DEBUG - Finished converting pages 10/10 time=5499.709
+2025-10-06 21:36:31,098 - INFO - Finished converting document Set-A-Key.pdf in 87.36 sec.
+2025-10-06 21:36:31,099 - INFO - Successfully converted /home/toni11/Documents/Programming_Projects/RAG_Review/Datasets/Quizzes/Set-A-Key.pdf
+2025-10-06 21:36:31,137 - INFO - Successfully saved markdown file to /home/toni11/Documents/Programming_Projects/RAG_Review/Datasets_md/Quizzes/Set-A-Key.md
+2025-10-06 21:36:31,137 - INFO - File /home/toni11/Documents/Programming_Projects/RAG_Review/Datasets/Quizzes/Set-A-Key.pdf already processed according to log file. Skipping conversion.
+2025-10-06 21:36:31,143 - DEBUG - Extracting file: ../Datasets/Quizzes/Quiz Bee Round Drill 2.pdf
+2025-10-06 21:36:31,154 - INFO - detected formats: [<InputFormat.PDF: 'pdf'>]
+2025-10-06 21:36:31,163 - INFO - Going to convert document batch...
+2025-10-06 21:36:31,164 - INFO - Initializing pipeline for StandardPdfPipeline with options hash e647edf348883bed75367b22fbe60347
+2025-10-06 21:36:31,164 - INFO - Accelerator device: 'cpu'
+2025-10-06 21:36:33,180 - INFO - Accelerator device: 'cpu'
+2025-10-06 21:36:33,436 - DEBUG - https://huggingface.co:443 "GET /api/models/ds4sd/docling-layout-heron/revision/main HTTP/1.1" 200 882
+2025-10-06 21:36:33,963 - DEBUG - LayoutPredictor settings: {'model_name': 'RTDetrV2ForObjectDetection', 'safe_tensors_file': '/home/toni11/.cache/huggingface/hub/models--ds4sd--docling-layout-heron/snapshots/bdb7099d742220552d703932cc0ce0a26a7a8da8/model.safetensors', 'device': 'cpu', 'num_threads': 4, 'image_size': {'height': 640, 'width': 640}, 'threshold': 0.3}
+2025-10-06 21:36:34,232 - DEBUG - https://huggingface.co:443 "GET /api/models/ds4sd/docling-models/revision/v2.3.0 HTTP/1.1" 200 1080
+2025-10-06 21:36:34,236 - INFO - Accelerator device: 'cpu'
+2025-10-06 21:36:34,606 - INFO - Processing document Quiz Bee Round Drill 2.pdf
+2025-10-06 21:37:48,077 - DEBUG - Finished converting pages 4/51 time=5576.826
+2025-10-06 21:39:00,832 - DEBUG - Finished converting pages 8/51 time=5649.582
+2025-10-06 21:40:13,668 - DEBUG - Finished converting pages 12/51 time=5722.417
+2025-10-06 21:41:26,969 - DEBUG - Finished converting pages 16/51 time=5795.718
+2025-10-06 21:42:41,372 - DEBUG - Finished converting pages 20/51 time=5870.121
+2025-10-06 21:43:58,745 - DEBUG - Finished converting pages 24/51 time=5947.495
+2025-10-06 21:45:14,814 - DEBUG - Finished converting pages 28/51 time=6023.563
+2025-10-06 21:46:51,537 - DEBUG - Finished converting pages 32/51 time=6120.287
+2025-10-06 21:48:14,127 - DEBUG - Finished converting pages 36/51 time=6202.876
+2025-10-06 21:49:29,536 - DEBUG - Finished converting pages 40/51 time=6278.285
+2025-10-06 21:50:49,595 - DEBUG - Finished converting pages 44/51 time=6358.344
+2025-10-06 21:52:18,216 - DEBUG - Finished converting pages 48/51 time=6446.965
+2025-10-06 21:53:15,805 - DEBUG - Finished converting pages 51/51 time=6504.555
+2025-10-06 21:53:15,899 - INFO - Finished converting document Quiz Bee Round Drill 2.pdf in 1004.75 sec.
+2025-10-06 21:53:15,900 - INFO - Successfully converted /home/toni11/Documents/Programming_Projects/RAG_Review/Datasets/Quizzes/Quiz Bee Round Drill 2.pdf
+2025-10-06 21:53:15,945 - INFO - Successfully saved markdown file to /home/toni11/Documents/Programming_Projects/RAG_Review/Datasets_md/Quizzes/Quiz Bee Round Drill 2.md
+2025-10-06 21:53:15,946 - INFO - File /home/toni11/Documents/Programming_Projects/RAG_Review/Datasets/Quizzes/Quiz Bee Round Drill 2.pdf already processed according to log file. Skipping conversion.
+2025-10-06 21:53:15,950 - DEBUG - Extracting file: ../Datasets/Quizzes/Quiz Bee Round Drill 1.pdf
+2025-10-06 21:53:15,962 - INFO - detected formats: [<InputFormat.PDF: 'pdf'>]
+2025-10-06 21:53:15,968 - INFO - Going to convert document batch...
+2025-10-06 21:53:15,968 - INFO - Initializing pipeline for StandardPdfPipeline with options hash e647edf348883bed75367b22fbe60347
+2025-10-06 21:53:15,968 - INFO - Accelerator device: 'cpu'
+2025-10-06 21:53:18,371 - INFO - Accelerator device: 'cpu'
+2025-10-06 21:53:18,373 - DEBUG - Resetting dropped connection: huggingface.co
+2025-10-06 21:53:18,801 - DEBUG - https://huggingface.co:443 "GET /api/models/ds4sd/docling-layout-heron/revision/main HTTP/1.1" 200 882
+2025-10-06 21:53:19,347 - DEBUG - LayoutPredictor settings: {'model_name': 'RTDetrV2ForObjectDetection', 'safe_tensors_file': '/home/toni11/.cache/huggingface/hub/models--ds4sd--docling-layout-heron/snapshots/bdb7099d742220552d703932cc0ce0a26a7a8da8/model.safetensors', 'device': 'cpu', 'num_threads': 4, 'image_size': {'height': 640, 'width': 640}, 'threshold': 0.3}
+2025-10-06 21:53:19,618 - DEBUG - https://huggingface.co:443 "GET /api/models/ds4sd/docling-models/revision/v2.3.0 HTTP/1.1" 200 1080
+2025-10-06 21:53:19,622 - INFO - Accelerator device: 'cpu'
+2025-10-06 21:53:19,975 - INFO - Processing document Quiz Bee Round Drill 1.pdf
+2025-10-06 21:54:38,209 - DEBUG - Finished converting pages 4/51 time=6586.958
+2025-10-06 21:55:55,645 - DEBUG - Finished converting pages 8/51 time=6664.395
+2025-10-06 21:57:24,997 - DEBUG - Finished converting pages 12/51 time=6753.747
+2025-10-06 21:59:15,018 - DEBUG - Finished converting pages 16/51 time=6863.767
+2025-10-06 22:00:39,864 - DEBUG - Finished converting pages 20/51 time=6948.613
+2025-10-06 22:01:57,698 - DEBUG - Finished converting pages 24/51 time=7026.447
+2025-10-06 22:03:24,608 - DEBUG - Finished converting pages 28/51 time=7113.357
+2025-10-06 22:05:05,628 - DEBUG - Finished converting pages 32/51 time=7214.377
+2025-10-06 22:06:24,445 - DEBUG - Finished converting pages 36/51 time=7293.194
+2025-10-06 22:07:42,769 - DEBUG - Finished converting pages 40/51 time=7371.518
+2025-10-06 22:09:01,370 - DEBUG - Finished converting pages 44/51 time=7450.119
+2025-10-06 22:10:22,349 - DEBUG - Finished converting pages 48/51 time=7531.099
+2025-10-06 22:11:17,978 - DEBUG - Finished converting pages 51/51 time=7586.727
+2025-10-06 22:11:18,048 - INFO - Finished converting document Quiz Bee Round Drill 1.pdf in 1082.09 sec.
+2025-10-06 22:11:18,049 - INFO - Successfully converted /home/toni11/Documents/Programming_Projects/RAG_Review/Datasets/Quizzes/Quiz Bee Round Drill 1.pdf
+2025-10-06 22:11:18,091 - INFO - Successfully saved markdown file to /home/toni11/Documents/Programming_Projects/RAG_Review/Datasets_md/Quizzes/Quiz Bee Round Drill 1.md
+2025-10-06 22:11:18,091 - INFO - File /home/toni11/Documents/Programming_Projects/RAG_Review/Datasets/Quizzes/Quiz Bee Round Drill 1.pdf already processed according to log file. Skipping conversion.
