@@ -1,1 +1,94 @@
 ../Datasets/Others/ECE_TOS.pdf
+/home/toni11/Documents/Programming_Projects/RAG_Review/Datasets/Others/BS_ECE_CMO-101-s.-2017-BS-Electronics-Engineering.pdf
+/home/toni11/Documents/Programming_Projects/RAG_Review/Datasets/Others/ECE_TOS.pdf
+/home/toni11/Documents/Programming_Projects/RAG_Review/Datasets/GEAS/Chemistry/General Chemistry_ The Essential Concepts_Glossary.pdf
+/home/toni11/Documents/Programming_Projects/RAG_Review/Datasets/GEAS/Chemistry/General chemistry for engineers-Glossary.pdf
+/home/toni11/Documents/Programming_Projects/RAG_Review/Datasets/GEAS/Chemistry/Thermodynamic-Data-at-1-atm-and-250C (1)-converted.pdf
+/home/toni11/Documents/Programming_Projects/RAG_Review/Datasets/GEAS/Chemistry/MATERIAL 2 CHET  LEC-converted.pdf
+/home/toni11/Documents/Programming_Projects/RAG_Review/Datasets/GEAS/Chemistry/MATERIAL 1 CHET LEC-converted.pdf
+/home/toni11/Documents/Programming_Projects/RAG_Review/Datasets/GEAS/Chemistry/1 Thermochemistry and Molecular Energetics ( PDFDrive ) (1).pdf
+/home/toni11/Documents/Programming_Projects/RAG_Review/Datasets/GEAS/Chemistry/MATERIAL 4 (ELECTROCHEMISTRY) - CHET LEC-converted.pdf
+/home/toni11/Documents/Programming_Projects/RAG_Review/Datasets/GEAS/Chemistry/MATERIAL 3 (ELECTROCHEM) - CHET LEC-converted.pdf
+/home/toni11/Documents/Programming_Projects/RAG_Review/Datasets/GEAS/Chemistry/ACTIVITY SERIES OF METALS.pdf
+/home/toni11/Documents/Programming_Projects/RAG_Review/Datasets/GEAS/Chemistry/MATERIAL 5 (NUCLEAR CHEMISTRY).pdf
+/home/toni11/Documents/Programming_Projects/RAG_Review/Datasets/GEAS/Chemistry/MATERIAL 6 (FUELS).pdf
+/home/toni11/Documents/Programming_Projects/RAG_Review/Datasets/GEAS/Chemistry/MATERIAL 7 - CRYSTALLINE SOLIDS.pdf
+/home/toni11/Documents/Programming_Projects/RAG_Review/Datasets/GEAS/Chemistry/Band Theory and Electronic Properties of Solids by John Singleton (z-lib.org).pdf
+/home/toni11/Documents/Programming_Projects/RAG_Review/Datasets/GEAS/Chemistry/MATERIAL 8 - METALS.pdf
+/home/toni11/Documents/Programming_Projects/RAG_Review/Datasets/GEAS/Chemistry/MATERIALS 9 and 10 (POLYMERS AND NANOTECHNOLOGY).pdf
+/home/toni11/Documents/Programming_Projects/RAG_Review/Datasets/GEAS/Chemistry/Applied Chemistry_ A Textbook for Engineers and Technologists- O.V. Roussak, H. D. Gesser.pdf
+/home/toni11/Documents/Programming_Projects/RAG_Review/Datasets/GEAS/EngMan/RICHARD L DAFT - MANAGEMENT (2010) - libgen.li.pdf
+/home/toni11/Documents/Programming_Projects/RAG_Review/Datasets/GEAS/EngMan_TQM/DMAIC - The 5 Phases of Lean Six Sigma .pdf
+/home/toni11/Documents/Programming_Projects/RAG_Review/Datasets/GEAS/EngMan_TQM/ISO-9001-2015.pdf
+/home/toni11/Documents/Programming_Projects/RAG_Review/Datasets/GEAS/EngMan_TQM/Six Sigma Definition - What is Lean Six Sigma_ASQ.pdf
+/home/toni11/Documents/Programming_Projects/RAG_Review/Datasets/GEAS/EngMan_TQM/Charting for Quality.pptx
+/home/toni11/Documents/Programming_Projects/RAG_Review/Datasets/GEAS/Laws/ECE_Code_of_Ethics.pdf
+/home/toni11/Documents/Programming_Projects/RAG_Review/Datasets/GEAS/Laws/Republic Act No. 10173.pdf
+/home/toni11/Documents/Programming_Projects/RAG_Review/Datasets/GEAS/Laws/Republic Act No. 10175.pdf
+/home/toni11/Documents/Programming_Projects/RAG_Review/Datasets/GEAS/Laws/Republic Act No. 5734.pdf
+/home/toni11/Documents/Programming_Projects/RAG_Review/Datasets/GEAS/Laws/Republic Act No. 9292.pdf
+/home/toni11/Documents/Programming_Projects/RAG_Review/Datasets/GEAS/Laws/manual-of-professional-practice-for-electronics-engineers.pdf
+/home/toni11/Documents/Programming_Projects/RAG_Review/Datasets/GEAS/CAD/AutoCAD-Shortcuts-Guide-Autodesk.pdf
+/home/toni11/Documents/Programming_Projects/RAG_Review/Datasets/GEAS/CAD/Getting Started AutoCad Electrical 2005- Electrical Manual (2004, Autocad) - libgen.li.pdf
+/home/toni11/Documents/Programming_Projects/RAG_Review/Datasets/GEAS/CAD/[AutoCAD-litteratur fra Forlaget Uhrskov] Uhrskov, Frede - AutoCAD 2013 - 2D øvelser til bygningstegning (2012, Forlaget Uhrskov) - libgen.li.pdf
+
+/home/toni11/Documents/Programming_Projects/RAG_Review/Datasets/ElectronicsEng/Micro/Topic 1A (1).pptx
+/home/toni11/Documents/Programming_Projects/RAG_Review/Datasets/ElectronicsEng/Micro/Chapter 2.pptx
+/home/toni11/Documents/Programming_Projects/RAG_Review/Datasets/Datasets_md/ECE_TOS.md
+/home/toni11/Documents/Programming_Projects/RAG_Review/Datasets/Mathematics/AdMath/Syllabus AdMath.pdf
+/home/toni11/Documents/Programming_Projects/RAG_Review/Datasets/Mathematics/AdMath/Matrix Factorization handout.pdf
+/home/toni11/Documents/Programming_Projects/RAG_Review/Datasets/Mathematics/AdMath/Fourier Series forms (1).pdf
+/home/toni11/Documents/Programming_Projects/RAG_Review/Datasets/Mathematics/AdMath/Complex Numbers handout.pdf
+/home/toni11/Documents/Programming_Projects/RAG_Review/Datasets/Mathematics/AdMath/Schaums Outline of Advanced Mathematics for Engineers and Scientists (Murray Spiegel) (Z-Library).pdf
+/home/toni11/Documents/Programming_Projects/RAG_Review/Datasets/Mathematics/AdMath/Erwin Kreyszig, In collaboration with Herbert Kreyszig and Edwar - Advanced Engineering Mathematics, 10th Edition (2011, Wiley) - libgen.li.pdf
+/home/toni11/Documents/Programming_Projects/RAG_Review/Datasets/Mathematics/AdMath/Erwin Kreyszig - Advanced Engineering Mathematics (1998, John Wiley & Sons) - libgen.li.pdf
+/home/toni11/Documents/Programming_Projects/RAG_Review/Datasets/Mathematics/AdMath/Advanced Engineering Mathematics (Solutions) 7th (1).pdf
+/home/toni11/Documents/Programming_Projects/RAG_Review/Datasets/Mathematics/AdMath/Peter V. O'Neil - Advanced Engineering Mathematics (2006, Cengage Learning) - libgen.li.pdf
+/home/toni11/Documents/Programming_Projects/RAG_Review/Datasets/Mathematics/AdMath/Dennis Zill, - Advanced Engineering Mathematics (2012, Jones & Bartlett Learning) - libgen.li.pdf
+/home/toni11/Documents/Programming_Projects/RAG_Review/Datasets/Mathematics/Calculus/Differential and Integral Calc (Schaum's) - libgen.li.pdf
+/home/toni11/Documents/Programming_Projects/RAG_Review/Datasets/Mathematics/Calculus/Integral Calculus Take Home Exam (APR 2025).pdf
+/home/toni11/Documents/Programming_Projects/RAG_Review/Datasets/Mathematics/Calculus/Differential Calculus Take Home Exam (APR 2025)-KEY.pdf
+/home/toni11/Documents/Programming_Projects/RAG_Review/Datasets/Mathematics/Calculus/(Schaum's outline series) Mendelson, Elliott - Schaum's outline of 3000 solved problems in calculus-McGraw-Hill (2009).pdf
+/home/toni11/Documents/Programming_Projects/RAG_Review/Datasets/Mathematics/DiffEqns/Differential eqns (Schaum's).pdf
+/home/toni11/Documents/Programming_Projects/RAG_Review/Datasets/Mathematics/DiffEqns/Schaum's Outline of Differential Equations -- Richard Bronson, Gabriel B_ Costa -- 5, 2021 -- McGraw-Hill Education -- 9781264258833 -- e2151e6525d5ec32c65db4226effc1f6 -- Anna’s Archive.pdf
+/home/toni11/Documents/Programming_Projects/RAG_Review/Datasets/Mathematics/EDA/MachineLearning/Aurélien Géron - Hands-On Machine Learning with Scikit-Learn, Keras, and TensorFlow.pdf
+/home/toni11/Documents/Programming_Projects/RAG_Review/Datasets/Mathematics/EDA/MachineLearning/Linear Algebra.pdf
+/home/toni11/Documents/Programming_Projects/RAG_Review/Datasets/Mathematics/EDA/MachineLearning/Marc Peter Deisenroth_ A. Aldo Faisal_ Cheng Soon Ong - Mathematics for Machine Learning (2021) - libgen.li.pdf
+/home/toni11/Documents/Programming_Projects/RAG_Review/Datasets/Mathematics/EDA/MachineLearning/MathforML.pdf
+/home/toni11/Documents/Programming_Projects/RAG_Review/Datasets/Mathematics/Electromag/Electromagnetics 1 Take Home Exam (APRIL 2025) - questionnaire.pdf
+/home/toni11/Documents/Programming_Projects/RAG_Review/Datasets/Mathematics/Electromag/Fundamentals of Applied Electromagnetics, Global Edition, 8th Edition (Fawwaz Ulaby, Umberto Ravaioli) (Z-Library).pdf
+/home/toni11/Documents/Programming_Projects/RAG_Review/Datasets/Mathematics/Electromag/[7th Edition] Sadiku, Matthew N. O - Elements of electromagnetics (2018, Oxford University Press) - libgen.li.pdf
+/home/toni11/Documents/Programming_Projects/RAG_Review/Datasets/Mathematics/Electromag/Electromagnetics With Applications (John D. Kraus, Daniel A. Fleisch) (Z-Library).pdf
+/home/toni11/Documents/Programming_Projects/RAG_Review/Datasets/Mathematics/Electromag/ece3313vector_analysis.pdf
+/home/toni11/Documents/Programming_Projects/RAG_Review/Datasets/Mathematics/Electromag/[Solutions] [3rd Edition] Elements_of_Electromagnetics_Sadiku_3rd_Solutions.pdf
+/home/toni11/Documents/Programming_Projects/RAG_Review/Datasets/Mathematics/Electromag/[Schaum’s Outlines] Edminister, Joseph_ Nahvi, Mahmood - Electromagnetics (2014, McGraw-Hill Education) - libgen.li.pdf
+/home/toni11/Documents/Programming_Projects/RAG_Review/Datasets/Mathematics/Electromag/Screenshot-2022-04-07-083030-converted.pdf
+/home/toni11/Documents/Programming_Projects/RAG_Review/Datasets/Mathematics/Electromag/Emags-2022-04-20 (1).pdf
+/home/toni11/Documents/Programming_Projects/RAG_Review/Datasets/Mathematics/Electromag/Electromagnetics-06-01-2022 (1).pdf
+/home/toni11/Documents/Programming_Projects/RAG_Review/Datasets/Mathematics/Electromag/Electromagnetics-05-25-2022 (1).pdf
+/home/toni11/Documents/Programming_Projects/RAG_Review/Datasets/Mathematics/Feedback/[Schaum’s Outlines] Feedback- libgen.li.pdf
+/home/toni11/Documents/Programming_Projects/RAG_Review/Datasets/Mathematics/Feedback/Modern Control Systems, Global Edition (2021, Pearson)(Z-Lib.io).pdf
+/home/toni11/Documents/Programming_Projects/RAG_Review/Datasets/Mathematics/Feedback/Modern control systems solution manual(Z-Lib.io).pdf
+/home/toni11/Documents/Programming_Projects/RAG_Review/Datasets/Mathematics/Feedback/Modern Control Engineering 5th Edition Solutions Manual (1).pdf
+/home/toni11/Documents/Programming_Projects/RAG_Review/Datasets/Mathematics/Feedback/ECE 131 - Nise 6th Edition (Solution Manual).pdf
+/home/toni11/Documents/Programming_Projects/RAG_Review/Datasets/Mathematics/Feedback/ECE 131 - Nise 6th Edition (Skills Assesment).pdf
+/home/toni11/Documents/Programming_Projects/RAG_Review/Datasets/Mathematics/Feedback/Modern control engineering-Pearson (2009_2010)(Z-Lib.io).pdf
+/home/toni11/Documents/Programming_Projects/RAG_Review/Datasets/Mathematics/Feedback/ECE 131 - Nise 6th Edition.pdf
+/home/toni11/Documents/Programming_Projects/RAG_Review/Datasets/Mathematics/Feedback/[SOLUTIONS] NISE_Control_Systems_Engineering_6th_Ed.pdf
+/home/toni11/Documents/Programming_Projects/RAG_Review/Datasets/Mathematics/Signals/[Schaum's Outlines] Signals- libgen.li.pdf
+/home/toni11/Documents/Programming_Projects/RAG_Review/Datasets/Quizzes/IECEP-Interscholastic-Quiz-Show-Drill-2.pdf
+/home/toni11/Documents/Programming_Projects/RAG_Review/Datasets/Quizzes/IECEP-Interscholastic-Quiz-Show-Drill-1.pdf
+/home/toni11/Documents/Programming_Projects/RAG_Review/Datasets/Quizzes/IECEP-ESAT.pdf
+/home/toni11/Documents/Programming_Projects/RAG_Review/Datasets/Quizzes/GEAS-IECEP.pdf
+/home/toni11/Documents/Programming_Projects/RAG_Review/Datasets/Quizzes/Elecs4.pdf
+/home/toni11/Documents/Programming_Projects/RAG_Review/Datasets/Quizzes/Elecs3.pdf
+/home/toni11/Documents/Programming_Projects/RAG_Review/Datasets/Quizzes/Elecs2.pdf
+/home/toni11/Documents/Programming_Projects/RAG_Review/Datasets/Quizzes/Elecs1.pdf
+/home/toni11/Documents/Programming_Projects/RAG_Review/Datasets/Quizzes/Written-Set-A.pdf
+/home/toni11/Documents/Programming_Projects/RAG_Review/Datasets/Quizzes/SQZ_College_Orals_QnA (1).pdf
+/home/toni11/Documents/Programming_Projects/RAG_Review/Datasets/Quizzes/SquEEEze Full Drill 3 (2022 Rulebook).pdf
+/home/toni11/Documents/Programming_Projects/RAG_Review/Datasets/Quizzes/SquEEEze All In Training Day 2.pdf
+/home/toni11/Documents/Programming_Projects/RAG_Review/Datasets/Quizzes/SquEEEze All In Training Day 1.pdf
+/home/toni11/Documents/Programming_Projects/RAG_Review/Datasets/Quizzes/Set-A-Key.pdf
+/home/toni11/Documents/Programming_Projects/RAG_Review/Datasets/Quizzes/Quiz Bee Round Drill 2.pdf
+/home/toni11/Documents/Programming_Projects/RAG_Review/Datasets/Quizzes/Quiz Bee Round Drill 1.pdf
