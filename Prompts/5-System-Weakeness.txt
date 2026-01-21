@@ -1,0 +1,1 @@
+Track the areas of weakness of the users after every exam. Whenever they ask for that, in any phrasing they choose, again before their next exams, they can ensure to focus their efforts on those weak areas. This list updates, removing the areas that they have received passing marks.
