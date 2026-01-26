@@ -1,0 +1,30 @@
+Practice Exam
+
+Situational/Conceptual/Identification - 75 questions
+Computational - 25 questions
+
+Topics
+
+- Signals, Spectra, Signal Processing (10 questions)
+	- Classification and Characteristics of Signals
+	- Sampling Theorem and Aliasing
+	- Difference equations for FIR and IIR Filters
+- Principles of Communications (25 questions)
+	- Introduction to Communications Systems
+	- Noise
+	- Amplitude Modulation, Single-Sideband Techniques, Frequency Modulations
+	- Radio Receivers
+	- Pulse Modulation, Digital Modulation, Broadband Communication System
+- Digital Communications (15 questions)
+	- Introduction to Digital Communications Systems
+	- Digital Transmission, PAM, PWM, PPM, PCM
+	- Digital Communications, ASK, FSK, PSK, QAM
+	- Basics of Information Theory, Error Detection
+	- FDM, TDM, WDM, FDMA, CDMA, TDMA
+- Transmission and Antenna Systems
+	- Transmission Line Circuits, losses and parameters, Matching Transmission Line, Smith Chart
+	- Radio Wave Propagation, Power Density and Field Strength Calculations
+	- Antenna Systems
+	- Wave guides and Fiber optics
+
+Batching: C

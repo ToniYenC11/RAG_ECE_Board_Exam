@@ -1,0 +1,69 @@
+Practice Exam
+
+
+Differential Calculus
+Concept/Situation/Identification - 20 questions
+  - Derivative tests
+  - Parametric Equations
+  - Other conceptual topics
+Computation - 10 questions
+  - Implicit Differentiation
+  - Applications (Radius of curvature, Related rates, etc.)
+  - Parametric Equations
+
+
+Integral Calculus
+Concept/Situation/Identification - 10 questions
+   - Fundamental Theorem of Calculus
+   - Techniques of Integration
+   - Infinite Series
+Computation - 20 questions
+   - Trigonometric Substitution
+   - Centroid
+   - Arc Length
+   - Volume
+   - Iterated Integral
+   - Trapezoidal and Simpson's Rule
+
+
+Electromagnetics I
+Concept/Situational/Identification - 20 questions
+- Vectors and Vector Calculus - 10% of the questions
+- Directional Derivatives - 30% of the questions
+- Theorems (Green's, Stokes, Divergence, etc.) - 60% of the questions
+
+Computation - 10 questions
+- Vector projections
+- Directional derivatives
+
+
+Differential Equations
+Concept/Situation/Identification - 20 questions
+- First order ODE
+- Second Order ODEs (Fundamental information about Wronskian, etc.)
+- Applications (Starting equations)
+- Partial Differential Equations
+
+Computation - 20 questions
+- First Order ODE (All types one question each i.e. Exact, Bernoulli, etc.) - Medium difficulty
+- Second Order ODEs 
+- Applications (Half-life, population, Brine, Cooling, etc.)
+- Circuits (RC, RLC, etc.)
+
+
+Advanced Mathematics for ECE
+Concept/Situational/Identification - 20 questions
+- Matrices - 50%
+- Fourier Series - 10%
+- Infinite Series - 20%
+- Complex Analysis - 10%
+- Solving Nonlinear Equations (Bracketing/Open-Domain Methods) - 10%
+
+Computation - 20 questions
+- Complex Analysis - 50%
+- Fourier Series - 20%
+- Matrices - 20%
+- Netwon-Rhapson Method - 5%
+
+
+Batching: Per Subject

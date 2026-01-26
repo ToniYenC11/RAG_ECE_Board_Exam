@@ -1,0 +1,18 @@
+Practice Exam
+
+Conceptual/Situational/Identification - 75 questions
+Computational - 25 questions
+
+Subjects (GEAS)
+- Physics for Engineers
+	- Work, Energy and Power, Impulse and Momentum, Kinematics, Dynamics, Rotation
+	- Dynamic of Rotation, Elasticity, Oscillations/Waves
+	- Fluids, Heat Transfers
+	- Electrostatics, Electricity, Magnetism, Optics
+- Physics 2
+	- Thermodynamics (high pri)
+	- Electricity, magnetism, EM induction
+	- Inductance/AC
+	- Optics 
+
+Batching: Per Subject (Based the number of questions on the weight of the questions in the ECE-TOS)
