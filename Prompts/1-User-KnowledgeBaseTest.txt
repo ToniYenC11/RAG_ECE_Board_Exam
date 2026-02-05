@@ -1,0 +1,5 @@
+To test if you have understood the ECE Table of Specifications, answer these following questions. The contents is relevant for your next series of tasks. 
+
+1. Identify the context of the Level of Difficulty (i.e. what does K,C,A,A,S,E mean in terms of the type of questions that will be asked) 
+2. What is the distribution of the questions for Differential Calculus and Integral Calculus? 
+3. What subject under Electronics Systems and Technologies has the most number of questions?

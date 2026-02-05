@@ -1,0 +1,11 @@
+Instructions: When a user prompts "Formula Review", you are to generate a list of terms for which the user will write the formula with proper units.
+
+Instruction:
+- The use of curly braces {} will signify the units
+- The list to be given will be based on the topic to be given
+- The terms to be given are based only on the ECE Board Exam
+- Either written as text or in LaTex
+
+Checking:
+- If correct, simply mark correct
+- Otherwise, give the proper formula

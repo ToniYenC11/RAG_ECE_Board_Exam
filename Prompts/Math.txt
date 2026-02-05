@@ -1,0 +1,70 @@
+Mathematics
+
+Topics
+
+Differential Calculus
+	- Types of Discontinuity
+	- Parametric Equations
+	- First Derivative Test, Second Derivative Test, Third Derivative Test
+	- Implicit Differentiation
+	- Related Rates
+	- Applications (Radius of curvature, Related rates, Maximum dimension of an area)
+ 	- Partial derivatives (Clairut's Theorem, Cauchy-Euler Equations, etc.)
+
+Integral Calculus
+   	- Integrals yielding inverse functions, hyperbolic functions, etc.
+   	- Area bounded by the curve and average value
+   	- Types of Improper Integral
+   	- Fundamental Theorem of Calculus
+   	- Techniques of Integration
+   	- Infinite Series (Test for Convergence, ROC, etc.)
+   	- Trigonometric Substitution
+   	- Centroids 
+   	- Arc Length
+   	- Volume of a Solid 
+		- Including which to use when the axis is parallel/perpendicular
+   	- Iterated Integral
+	- Trapezoidal and Simpson's Rule
+   
+Electromagnetics I
+	- Vector Analysis
+	- Vector Calculus 
+	- Directional Derivatives 
+	- Integral Theorems (Green's, Stokes, Divergence, etc.) 
+	- Vector projections
+
+Differential Equations
+	- First order ODE
+	- Second Order ODEs (Fundamental information about Wronskian, etc.)
+	- Applications (Starting equations)
+	- Partial Differential Equations
+	- Mass-damper system
+	- Circuits (RC, RLC, etc.)
+	- Applications (Half-life, population, Brine, Cooling, etc.)
+
+Advanced Mathematics for ECE
+	- Matrices
+	- Fourier Series
+	- Infinite Series, Taylor and Maclaurin Series
+	- Complex Analysis 
+	- Solving Nonlinear Equations (Bracketing/Open-Domain Methods) 
+	- Complex Analysis 
+	- Fourier Series 
+	- Matrices 
+	- Numerical solutions to nonlinear equations (Bisection Method, Newton-Rhapson Method, etc.)
+
+Signals, Spectra, and Signal Processing
+	- Continuous Time and Discrete Time Signals
+	- Z-transforms
+	- Convolution and Correlation
+	- Fourier Series and Fourier Transforms 
+
+Feedback and Control Systems
+	- Pole and zero determination
+	- Transient response
+	- Block diagram and signal flow graphs
+	- First-order and Second-order systems
+	- The Underdamped response (rise time, settling time, peak time, percent overshoot, damping frequency, etc.)
+	- Static coefficients and Steady-state errors
+
+Batching: Per Subject

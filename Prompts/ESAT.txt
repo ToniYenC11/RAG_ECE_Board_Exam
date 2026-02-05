@@ -1,0 +1,68 @@
+Electronics Systems and Technologies
+
+Topics
+
+- Signals, Spectra, Signal Processing (10 questions)
+	- Classification and Characteristics of Signals
+	- Sampling Theorem and Aliasing
+	- Difference equations for FIR and IIR Filters
+	- Convolution and correlation, Z-transforms, 
+	- Pole-zero gain filters
+	- IIR and FIR filters (Butterwoth, Chebyshev, etc.)
+	- Fourier transforms
+	
+- Principles of Communications (25 questions)
+	- Introduction to Communications Systems
+	- Noise 
+	- Amplitude Modulation
+	- Single-Sideband Techniques
+	- Frequency Modulation 
+	- Angle Modulation
+	- Radio Receivers
+	- Pulse Modulation, Digital Modulation, Broadband Communication System
+	- Heterodyning
+	- Delta Modulation
+
+- Digital Communications (15 questions)
+	- Introduction to Digital Communications Systems
+	- Switching Techniques
+	- Digital Transmission, PAM, PWM, PPM, PCM
+	- Differential PCM
+	- Digital Communications, ASK, FSK, PSK, QAM
+	- Basics of Information Theory, Error Detection
+	- FDM, TDM, WDM, FDMA, CDMA, TDMA
+
+- Transmission and Antenna Systems
+	- Transmission Line Circuits, losses and parameters, Matching Transmission Line, Smith Chart
+	- Radio Wave Propagation, Power Density and Field Strength Calculations
+	- Antenna Systems
+	- Wave guides 
+	- Fiber optics
+
+- Electronics 3: Electronic Systems and Design
+	- Optoelectronic Devices and Sensors, Transducers
+	- Interfacing Techniques, Programmable Logic Circuits
+	- Building Management Systems
+		Codes and Standards:
+		- Philippine Electronics Code (Book 1 to Book 4)
+		- Philippine Electrical Code
+		- National Building Code
+		- Fire Code of the Philippines
+		- National Fire Protection Association (NFPA72)
+		Topics
+		- Fire Detection and Alarm System (FDAS)
+		- HVAC
+		- CCTV
+		- Audio-Video and Lighting Controls
+		- Supervisory Controls and Data Acquistion
+		- Industry Systems (DCS, PLC, SCADA, etc.)
+
+- Data Communications
+	- Introduction to Data Communications, Category of Data Communication, Configurations and Network Topology
+	- Transmission Modes, Two-wire vs. Four-wire Circuits
+	- Types of Synchronization (Frame, Bit, etc.)
+	- Network Components (Terminal, multiplexer, concentrators), Network Components (LCU, FEP, Serial Interface)
+	- Security, Cryptography
+	-  Open System Interconnection, System Network Architecture, TCP/IP Architecture, Character-Oriented Protocols, Bit-Oriented Protocol
+
+Batching: Per Subject
