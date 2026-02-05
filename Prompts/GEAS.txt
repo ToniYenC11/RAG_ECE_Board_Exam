@@ -1,69 +1,109 @@
-Practice Exam
+General Engineering and Applied Sciences
 
-
-Differential Calculus
-Concept/Situation/Identification - 20 questions
-  - Derivative tests
-  - Parametric Equations
-  - Other conceptual topics
-Computation - 10 questions
-  - Implicit Differentiation
-  - Applications (Radius of curvature, Related rates, etc.)
-  - Parametric Equations
-
-
-Integral Calculus
-Concept/Situation/Identification - 10 questions
-   - Fundamental Theorem of Calculus
-   - Techniques of Integration
-   - Infinite Series
-Computation - 20 questions
-   - Trigonometric Substitution
-   - Centroid
-   - Arc Length
-   - Volume
-   - Iterated Integral
-   - Trapezoidal and Simpson's Rule
-
-
-Electromagnetics I
-Concept/Situational/Identification - 20 questions
-- Vectors and Vector Calculus - 10% of the questions
-- Directional Derivatives - 30% of the questions
-- Theorems (Green's, Stokes, Divergence, etc.) - 60% of the questions
-
-Computation - 10 questions
-- Vector projections
-- Directional derivatives
-
-
-Differential Equations
-Concept/Situation/Identification - 20 questions
-- First order ODE
-- Second Order ODEs (Fundamental information about Wronskian, etc.)
-- Applications (Starting equations)
-- Partial Differential Equations
-
-Computation - 20 questions
-- First Order ODE (All types one question each i.e. Exact, Bernoulli, etc.) - Medium difficulty
-- Second Order ODEs 
-- Applications (Half-life, population, Brine, Cooling, etc.)
-- Circuits (RC, RLC, etc.)
-
-
-Advanced Mathematics for ECE
-Concept/Situational/Identification - 20 questions
-- Matrices - 50%
-- Fourier Series - 10%
-- Infinite Series - 20%
-- Complex Analysis - 10%
-- Solving Nonlinear Equations (Bracketing/Open-Domain Methods) - 10%
-
-Computation - 20 questions
-- Complex Analysis - 50%
-- Fourier Series - 20%
-- Matrices - 20%
-- Netwon-Rhapson Method - 5%
+Chemistry
+	- Energy 
+	- Chemistry of Engineering Materials
+	- Chemistry of the Nanotechnology materials
+	- Chemistry of the Environment
+	- Special Topics specific to the field of expertise (semiconductor, nuclear, etc.)
+Physics for Engineers
+	- Work, Energy and Power
+	- Impulse and Momentum
+	- Kinematics
+	- Dynamics
+	- Rotation
+	- Angular Motion
+	- Dynamic of Rotation
+	- Elasticity
+	- Oscillations/Waves
+	- Fluids
+	- Heat Transfer
+	- Waves
+	- Electrostatics
+	- Electricity
+	- Magnetism
+	- Optics
+Engineering Economics
+	- Introduction Terms
+	- Money-Time Relationship and Equivalence
+		- Nominal Rate versus Effective Rate
+	- Basic Economy and Study Methods
+		- Law of Supply and Demand
+		- Equilibrium
+		- Elasticity
+		- Law of Diminishing Marginal Utility
+	- Annuity (Present, Annuity Due, Deferred, Perpetuity)
+	- Decisions Under Certainty
+	- Decisions Recognizing Risks
+	- Depreciation Methods
+Technopreneurship
+	- Technopreneurship Introduction/ Ethics, social responsibility, and Globalization
+	- Customers
+	- Value Proposition
+	- Market Identification and Analysis
+	- Creating Competitive Advantage
+	- Business Models
+	- Introduction to Intellectual Property
+	- Execution and Business Plan
+	- Financial Analysis and Accounting Basics
+	- Raising Capital
+	- Ethics, social responsibility, and Globalization
+Physics 2
+	- Thermodynamics
+	- Electricity
+	- Magnetism
+	- EM Induction
+	- Inductance/ Condensed Matter
+	- AC
+	- Optics
+	- Atomic/nuclear
+	- Condensed Matter
+Materials Science and Engineering
+	- Modern material’s atomic structure and interatomic bonding
+	- The structure of crystalline materials
+	- Crystalline and non-crystalline materials/ Economic, environmental, and societal issues in Materials science and Engineering
+	- Imperfections in solid
+	- Diffusion in solids
+	- Mechanical properties of metals
+	- Application and Processing of metal alloys
+	- Structure and properties of ceramics
+	- Applications and processing of ceramics
+	- Polymer textures and properties
+	- Applications and processing of polymers
+	- Composites
+	- Electrical properties
+	- Dielectric behavior
+	- Magnetic properties
+	- Optical properties
+	- Thermal properties
+Computer Programming
+	- Introduction to Object Oriented Programming and
+	- Unified Modelling Language
+	- Object Oriented Analysis and Design
+	- Programming Language Fundamentals
+	- Advanced Programming Language Fundamentals
+	- Exception Handling
+	- Graphical User Interface Programming
+Environment Science and Engineering
+	- Nature and Ecology
+	- Natural Systems and Resources
+	- Environmental Concerns and Crises
+	- Environmental Impact Assessment
+	- Sustainable Development
+ECE Laws, Contracts, Ethics, Standards & Safety
+	- Fundamentals of the Laws, Obligations and
+	- Contracts
+	- Pledge of ECE & CSC Guidelines
+	- The Board Examination
+	- Regulating the ECE Procession (PRC)
+	- Practicing the ECE Profession
+	- Other ECE Related Statutes
+	- Safety Standards
+	- PEC Codes
+Computer Aided Drafting (CAD)
+	- Introduction to CAD Software and its environment
+	- Snapping and construction elements
+	- Dimensioning, Plotting and inputting of images
 
 
 Batching: Per Subject
