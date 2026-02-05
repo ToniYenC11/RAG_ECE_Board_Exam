@@ -1,0 +1,110 @@
+Board Exam
+
+Topics
+
+DC Electrical Circuits
+	- Thevenin, Norton Theorems
+	- Millman's Theorem
+	- Maximum Power Transfer Theorem
+	- Superposition Theorem
+	- Mesh, Nodal Analysis with dependent sources
+	- Capacitors and Inductors
+	- Series and Parallel, First Order and Second-order Transient Response	
+
+AC Electrical Circuits
+	- Applicable theorems from DC transferred to AC Circuits
+	- Instantaneous, Average Power
+	- Reactive, Real, Apparent Power
+	- Power Factor and Power Factor Correction
+   	- Maximum Average Power Transfer Theorem
+	- Three-phase circuits (Conceptual only)
+	- Instrumentation Circuit (Galvanometer, Ammeter, Wien-bridge, etc.)   	
+
+Electromagnetics 
+	- Steady-electric and Magnetic Fields
+	- Dielectric and Magnetic Materials
+	- Coupled and Magnetic Circuits
+	- Time-Varying Fields and Maxwell's Equation
+
+Electronic Devices and Circuits
+	- Diode Equivalent Circuits
+	- Diode Wave Shaping Circuits and Special Diode Applications
+	- Special-purpose diodes (Varactor, Schottky, PIN, etc.)
+	- Zener Diode Circuits
+	- Bipolar Junction Transistor and Field-Effect Transistor
+	- BJT and FET configurations
+	- Hybrid parameters for BJT and FET
+	- BJT and FET Small-Signal Analysis (re, hybrid-pi, hybrid, etc.)
+	- BJT and FET Small-Signal Analysis (Computation)
+	- Voltage Multipliers, Power Supply, and Voltage Regulation
+	- BJT and FET Frequency Response (Low-frequency, High-frequency, Miller Effect)	
+
+Electronics Circuit Analysis and Design
+	- Cascade and Cascode Connection
+	- Current Mirrors and Current Source
+	- Differential Amplifiers
+	- Operational Amplifiers (theory)
+	- Operational Amplifier Circuits
+	- Feedback (Negative, Positive, Voltage-Series, Current-Series, etc.)
+	- Oscillators (Wien-Bridge, Phase Shift, Colpitts, Hartley,, Clapp, Armstrong, Tuned oscillators, UJT Oscillator, Crystal Oscillator)
+	- Power amplifiers
+	- Linear Digital ICs (555 Timer, Comparator, DAC, Voltage-Controlled Oscillator, Phase-Locked Loop)	
+
+Electronic Systems and Design
+	- Optoelectronic Devices and Sensors, Transducers
+	- Interfacing Techniques, Programmable Logic Circuits
+	- Building Management Systems
+		Codes and Standards:
+		- Philippine Electronics Code (Book 1 to Book 4)
+		- Philippine Electrical Code
+		- National Building Code
+		- Fire Code of the Philippines
+		- National Fire Protection Association (NFPA72)
+		Topics
+		- Fire Detection and Alarm System (FDAS)
+		- HVAC
+		- CCTV
+		- Audio-Video and Lighting Controls
+		- Supervisory Controls and Data Acquistion
+		- Industry Systems (DCS, PLC, SCADA, etc.)
+
+Logic Circuits and Switching Theory
+	- Boolen Algebra and Logic Gates
+	- Minimization of Combinational Logic Circuits
+		- Minimum Number of NAND/NOR from a SOP/POS
+		- Canonical, Stndard Form
+	- Transistor Logic Families
+		- Identifying model number of gate (i.e. 7400 for TTL NAND, 74HC02 for NOR)
+	- Johnson Code, Gray Code, etc.
+	- Half-adder, Full-adder, etc.
+	- Counters (Ring, Johnson, etc.)
+	- Sequential Logic Circuits
+	- Algorithmic State Machine
+	- Finite State Machine
+	- Asynchronous Sequential Logic	
+
+Microprocessor & Microcontroller Systems and Design
+	- IC fabrication process
+	- Microcomputer
+	- Memory 
+	- Registers
+	- Register Addressing
+	- I/O Subsytem
+	- Computer Densities (SSI, LSI, etc.)
+	- Microprocessor Unit
+	- Microcontroller Unit
+	- Serial Communication Interface
+	- Instruction Set Architecture
+	- Assembly Programming
+	- Microcontrollers 
+	
+Feedback and Control Systems
+	- Block diagram representations and signal flow graphs
+	- LTI Systems and Transient Analysis
+	- System Modelling and Transfer Function
+	- Poles and Zeros, Root Locus
+	- Stability Analysis
+	- Bode Plots
+	- Steady State Analysis and Frequency Response
+
+Batching: Per Subject
