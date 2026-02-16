@@ -67,4 +67,11 @@ Feedback and Control Systems
 	- The Underdamped response (rise time, settling time, peak time, percent overshoot, damping frequency, etc.)
 	- Static coefficients and Steady-state errors
 
+Engineering Data Analysis
+	- Design of Experiments, Experimental Blocking
+	- Factorial Experiment
+	- Statistical Sampling, Distribution, and intervals
+	- Test of hypotheses
+	- Regression and Correlation
+
 Batching: Per Subject
