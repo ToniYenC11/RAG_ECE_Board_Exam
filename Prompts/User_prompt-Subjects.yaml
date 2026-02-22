@@ -1,13 +1,14 @@
 Subjects: Differential Calculus
 
 Topics:
+Question_Type: Identification
   - Functions, Continuity, and Limits - 10 questions
 
-  Computation
+Question_Type: Computation
   - Related rates - 10 questions
   - Inflection point and Second-Derivative Test - 5 questions
   - Length of Arc - 5 questions
-s
+
 Question Batching: Option {}
 
 Subjects: Integral Calculus 

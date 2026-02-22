@@ -1,0 +1,16 @@
+## Tasks
+1. Create a curated lessons of topics under the "Topics" header
+2. The curated lessons will be focused on ECE Board Exam Essentials
+3. If the next prompt is "Explain further", the user asks for clarity regarding the topics. They may specify a specific topic after the line
+4. Always create a summary table after every lesson that can be easily pasted into word to be printed
+
+## Topics
+1. Transient Analysis of first-order circuits (RL, RC)
+2. Transient Analysis of second-order circuits (RLC)
+    - Relation of damping factor (zheta) to the response parameters (settling time, overshoot, peak time, rise time)
+    - Relation of poles and zeros to the response parameters (settling time, overshoot, peak time, rise time)
+3. System Responses
+    - Natural, forced, steady-state, transient, zero input, zero-state
+        - Separate for analog systems and digital systems
+    - Impulse, Step response
+
